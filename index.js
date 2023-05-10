@@ -83,7 +83,7 @@ function drawAlternateAirportRings(){
   var currentAircraft = findAircraft();
   for (var i = 5 - 1; i >= 0; i--) {
     var currentValue = $("#alternate" + i).val();
-    var currentAirport = approvedAirports.find(a => a.icao === currentValue)
+    var currentAirport = approvedAirports.find(a => a.icao === currentValue.toUpperCase())
 
     if(currentAirport){
       const alternateCircle = new google.maps.Circle({
@@ -111,7 +111,7 @@ function drawAdequateAirportRings(){
     currentAirports = [];
     for (var i = 5 - 1; i >= 0; i--) {
       var currentValue = $("#adequate" + i).val();
-      var currentAirport = approvedAirports.find(a => a.icao === currentValue)
+      var currentAirport = approvedAirports.find(a => a.icao === currentValue.toUpperCase())
       if(currentAirport){ currentAirports.push(currentAirport); }
     }
   }
