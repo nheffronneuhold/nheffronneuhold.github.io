@@ -1,60 +1,108 @@
 
-const adequateAirports = {
-	SFO: {
-    center: { lat: 37.6188056, lng: -122.3754167 }
-  },
-  HNL: {
-    center: { lat: 21.3178172, lng: -157.9202275 }
-  }
-};
 
-const alternateAirports = {
-SFO: {
-    center: { lat: 37.6188056, lng: -122.3754167 }
+var map;
+var approvedAirports;
+var ringDistances = {
+  A330P: {
+    Adequate: 408,
+    Alternate: 1200
+
   },
-  HNL: {
-    center: { lat: 21.3178172, lng: -157.9202275 }
+  A330F: {
+    Adequate: 405,
+    Alternate: 1183
+
+  },
+  A321: {
+    Adequate: 400,
+    Alternate: 1168
+  },
+  B787: {
+    Adequate: 410,
+    Alternate: 1207
   }
 };
+var mapShapes = [];
 
 function initMap() {
   // Create the map.
-  const map = new google.maps.Map(document.getElementById("map"), {
+  map = new google.maps.Map(document.getElementById("map"), {
     zoom: 4,
     center: { lat: 28.43436280891402, lng: -138.30065838542495 },
     mapTypeId: "terrain",
   });
+}
+
+$("#submitBtn").click(function(){
+  clearShapes();
+  drawAlternateAirportRings();
+  drawAdequateAirportRings();
+});
   
-  for (const airport in alternateAirports) {
-    // Add the circle for this city to the map.
-    const alternateCircle = new google.maps.Circle({
-      strokeColor: "#ebe309",
-      strokeOpacity: 0.9,
-      strokeWeight: 2,
-      fillColor: "#ebe534",
-      fillOpacity: 0.45,
-      map,
-      center: alternateAirports[airport].center,
-      radius: 2126096
-    });
-  }
 
-
-for (const airport in adequateAirports) {
-  // Add the circle for this city to the map.
-  const adequateCircle = new google.maps.Circle({
-    strokeColor: "#018f27",
-    strokeOpacity: 0.8,
-    strokeWeight: 2,
-    fillColor: "#1bb544",
-    fillOpacity: 0.35,
-    map,
-    center: adequateAirports[airport].center,
-    radius: 729688
+function clearShapes(){
+  $.each(mapShapes, function(index, workingShape){
+    workingShape.setMap(null);
   });
+  mapShapes = [];
 }
-}
-  
 
+function findAircraft(){
+  return ringDistances[$("#aircraftSelect").val()];
+}
+function drawAlternateAirportRings(){
+
+  var currentAircraft = findAircraft();
+  for (var i = 5 - 1; i >= 0; i--) {
+    var currentValue = $("#alternate" + i).val();
+    var currentAirport = approvedAirports.find(a => a.icao === currentValue)
+
+    if(currentAirport){
+      const alternateCircle = new google.maps.Circle({
+        strokeColor: "#ebe309",
+        strokeOpacity: 0.9,
+        strokeWeight: 2,
+        fillColor: "#ebe534",
+        fillOpacity: 0.45,
+        map,
+        center: { lat: currentAirport.latitude.decimal, lng: currentAirport.longitude.decimal },
+        radius: currentAircraft.Alternate * 1852
+      });
+      mapShapes.push(alternateCircle);
+    }
+  }
+  
+}  
+
+function drawAdequateAirportRings(){
+
+  var currentAircraft = findAircraft();
+  approvedAirports.forEach(function(currentValue, index, arr){
+    const adequateCircle = new google.maps.Circle({
+      strokeColor: "#018f27",
+      strokeOpacity: 0.8,
+      strokeWeight: 2,
+      fillColor: "#1bb544",
+      fillOpacity: 0.35,
+      map,
+      center: { lat: currentValue.latitude.decimal, lng: currentValue.longitude.decimal },
+      radius: currentAircraft.Adequate * 1852
+    });
+    mapShapes.push(adequateCircle);
+  });
+
+}
 
 window.initMap = initMap;
+
+$(document).ready(function(){
+
+  $.getJSON("ApprovedAirports.json", function(sourceData){
+      approvedAirports = sourceData;
+
+      drawAdequateAirportRings();
+      drawAlternateAirportRings();
+  });
+
+
+});

@@ -1,0 +1,9208 @@
+[{
+  "city": "Honiara",
+  "country": {
+    "code": "SB",
+    "name": "Solomon Islands"
+  },
+  "elevation": {
+    "feet": 28,
+    "meters": 9
+  },
+  "geometry": {
+    "coordinates": [160.054993, -9.428],
+    "type": "Point"
+  },
+  "iata": "HIR",
+  "icao": "AGGH",
+  "latitude": {
+    "decimal": -9.428,
+    "degrees": "9° 25' 40.80\" S"
+  },
+  "location": "Honiara, Guadalcanal, Solomon Islands",
+  "longitude": {
+    "decimal": 160.054993,
+    "degrees": "160° 3' 17.97\" E"
+  },
+  "name": "Honiara International Airport",
+  "region": {
+    "name": "Guadalcanal"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+1100",
+    "name": "Pacific/Guadalcanal",
+    "offset_dst": "+11:00",
+    "offset_std": "+11:00",
+    "tzid": "Pacific/Guadalcanal",
+    "zone": "+11"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Sisimiut",
+  "country": {
+    "code": "GL",
+    "name": "Greenland"
+  },
+  "elevation": {
+    "feet": 165,
+    "meters": 50
+  },
+  "geometry": {
+    "coordinates": [-50.715294, 67.010446],
+    "type": "Point"
+  },
+  "iata": "SFJ",
+  "icao": "BGSF",
+  "latitude": {
+    "decimal": 67.010446,
+    "degrees": "67° 0' 37.60\" N"
+  },
+  "location": "Sisimiut, Greenland",
+  "longitude": {
+    "decimal": -50.715294,
+    "degrees": "50° 42' 55.05\" W"
+  },
+  "name": "Kangerlussuaq Airport",
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0300",
+    "name": "America/Nuuk",
+    "offset_dst": "-02:00",
+    "offset_std": "-03:00",
+    "tzid": "America/Nuuk",
+    "zone": "-03"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Sandgerði",
+  "country": {
+    "code": "IS",
+    "name": "Iceland"
+  },
+  "elevation": {
+    "feet": 171,
+    "meters": 52
+  },
+  "geometry": {
+    "coordinates": [-22.6056, 63.985001],
+    "type": "Point"
+  },
+  "iata": "KEF",
+  "icao": "BIKF",
+  "latitude": {
+    "decimal": 63.985001,
+    "degrees": "63° 59' 6.003\" N"
+  },
+  "location": "Sandgerði, Southern Peninsula Region, Iceland",
+  "longitude": {
+    "decimal": -22.6056,
+    "degrees": "22° 36' 20.15\" W"
+  },
+  "name": "Keflavik International Airport",
+  "region": {
+    "code": "IS-2",
+    "name": "Southern Peninsula Region"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+0000",
+    "name": "Atlantic/Reykjavik",
+    "offset_dst": "+00:00",
+    "offset_std": "+00:00",
+    "tzid": "Atlantic/Reykjavik",
+    "zone": "GMT",
+    "zone_dst": "GMT",
+    "zone_std": "GMT"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Reykjavik",
+  "country": {
+    "code": "IS",
+    "name": "Iceland"
+  },
+  "elevation": {
+    "feet": 48,
+    "meters": 15
+  },
+  "geometry": {
+    "coordinates": [-21.940599, 64.129997],
+    "type": "Point"
+  },
+  "iata": "RKV",
+  "icao": "BIRK",
+  "latitude": {
+    "decimal": 64.129997,
+    "degrees": "64° 7' 47.98\" N"
+  },
+  "location": "Reykjavik, Capital Region, Iceland",
+  "longitude": {
+    "decimal": -21.940599,
+    "degrees": "21° 56' 26.15\" W"
+  },
+  "name": "Reykjavik Airport",
+  "region": {
+    "code": "IS-1",
+    "name": "Capital Region"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+0000",
+    "name": "Atlantic/Reykjavik",
+    "offset_dst": "+00:00",
+    "offset_std": "+00:00",
+    "tzid": "Atlantic/Reykjavik",
+    "zone": "GMT",
+    "zone_dst": "GMT",
+    "zone_std": "GMT"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Ikaluit",
+  "country": {
+    "code": "CA",
+    "name": "Canada"
+  },
+  "elevation": {
+    "feet": 110,
+    "meters": 34
+  },
+  "geometry": {
+    "coordinates": [-68.555801, 63.756402],
+    "type": "Point"
+  },
+  "iata": "YFB",
+  "icao": "CYFB",
+  "latitude": {
+    "decimal": 63.756402,
+    "degrees": "63° 45' 23.04\" N"
+  },
+  "location": "Ikaluit, Nunavut, Canada",
+  "longitude": {
+    "decimal": -68.555801,
+    "degrees": "68° 33' 20.88\" W"
+  },
+  "name": "Iqaluit Airport",
+  "region": {
+    "code": "NU",
+    "name": "Nunavut"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0500",
+    "name": "America/Iqaluit",
+    "offset_dst": "-04:00",
+    "offset_std": "-05:00",
+    "tzid": "America/Iqaluit",
+    "zone": "EST",
+    "zone_dst": "EDT",
+    "zone_std": "EST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Goffs",
+  "country": {
+    "code": "CA",
+    "name": "Canada"
+  },
+  "elevation": {
+    "feet": 477,
+    "meters": 145
+  },
+  "geometry": {
+    "coordinates": [-63.508598, 44.880798],
+    "type": "Point"
+  },
+  "iata": "YHZ",
+  "icao": "CYHZ",
+  "latitude": {
+    "decimal": 44.880798,
+    "degrees": "44° 52' 50.87\" N"
+  },
+  "location": "Goffs, Nova Scotia, Canada",
+  "longitude": {
+    "decimal": -63.508598,
+    "degrees": "63° 30' 30.95\" W"
+  },
+  "name": "Halifax / Stanfield International Airport",
+  "region": {
+    "code": "NS",
+    "name": "Nova Scotia"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0400",
+    "name": "America/Halifax",
+    "offset_dst": "-03:00",
+    "offset_std": "-04:00",
+    "tzid": "America/Halifax",
+    "zone": "AST",
+    "zone_dst": "ADT",
+    "zone_std": "AST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Stephenville",
+  "country": {
+    "code": "CA",
+    "name": "Canada"
+  },
+  "elevation": {
+    "feet": 84,
+    "meters": 26
+  },
+  "geometry": {
+    "coordinates": [-58.549999, 48.544201],
+    "type": "Point"
+  },
+  "iata": "YJT",
+  "icao": "CYJT",
+  "latitude": {
+    "decimal": 48.544201,
+    "degrees": "48° 32' 39.12\" N"
+  },
+  "location": "Stephenville, Newfoundland and Labrador, Canada",
+  "longitude": {
+    "decimal": -58.549999,
+    "degrees": "58° 32' 59.99\" W"
+  },
+  "name": "Stephenville Airport",
+  "region": {
+    "code": "NL",
+    "name": "Newfoundland and Labrador"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0330",
+    "name": "America/St_Johns",
+    "offset_dst": "-02:30",
+    "offset_std": "-03:30",
+    "tzid": "America/St_Johns",
+    "zone": "NST",
+    "zone_dst": "NDT",
+    "zone_std": "NST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Dieppe",
+  "country": {
+    "code": "CA",
+    "name": "Canada"
+  },
+  "elevation": {
+    "feet": 232,
+    "meters": 71
+  },
+  "geometry": {
+    "coordinates": [-64.678596, 46.112202],
+    "type": "Point"
+  },
+  "iata": "YQM",
+  "icao": "CYQM",
+  "latitude": {
+    "decimal": 46.112202,
+    "degrees": "46° 6' 43.92\" N"
+  },
+  "location": "Dieppe, New Brunswick, Canada",
+  "longitude": {
+    "decimal": -64.678596,
+    "degrees": "64° 40' 42.94\" W"
+  },
+  "name": "Greater Moncton Roméo LeBlanc International Airport",
+  "region": {
+    "code": "NB",
+    "name": "New Brunswick"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0400",
+    "name": "America/Moncton",
+    "offset_dst": "-03:00",
+    "offset_std": "-04:00",
+    "tzid": "America/Moncton",
+    "zone": "AST",
+    "zone_dst": "ADT",
+    "zone_std": "AST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Gander",
+  "country": {
+    "code": "CA",
+    "name": "Canada"
+  },
+  "elevation": {
+    "feet": 496,
+    "meters": 151
+  },
+  "geometry": {
+    "coordinates": [-54.567719, 48.936258],
+    "type": "Point"
+  },
+  "iata": "YQX",
+  "icao": "CYQX",
+  "latitude": {
+    "decimal": 48.936258,
+    "degrees": "48° 56' 10.52\" N"
+  },
+  "location": "Gander, Newfoundland and Labrador, Canada",
+  "longitude": {
+    "decimal": -54.567719,
+    "degrees": "54° 34' 3.788\" W"
+  },
+  "name": "Gander International Airport / CFB Gander",
+  "region": {
+    "code": "NL",
+    "name": "Newfoundland and Labrador"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0330",
+    "name": "America/St_Johns",
+    "offset_dst": "-02:30",
+    "offset_std": "-03:30",
+    "tzid": "America/St_Johns",
+    "zone": "NST",
+    "zone_dst": "NDT",
+    "zone_std": "NST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Montreal",
+  "country": {
+    "code": "CA",
+    "name": "Canada"
+  },
+  "elevation": {
+    "feet": 118,
+    "meters": 36
+  },
+  "geometry": {
+    "coordinates": [-73.740799, 45.4706],
+    "type": "Point"
+  },
+  "iata": "YUL",
+  "icao": "CYUL",
+  "latitude": {
+    "decimal": 45.4706,
+    "degrees": "45° 28' 14.15\" N"
+  },
+  "location": "Montreal, Quebec, Canada",
+  "longitude": {
+    "decimal": -73.740799,
+    "degrees": "73° 44' 26.87\" W"
+  },
+  "name": "Montreal / Pierre Elliott Trudeau International Airport",
+  "region": {
+    "code": "QC",
+    "name": "Quebec"
+  },
+  "state": {
+    "code": "QC",
+    "name": "Quebec"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0500",
+    "name": "America/Toronto",
+    "offset_dst": "-04:00",
+    "offset_std": "-05:00",
+    "tzid": "America/Toronto",
+    "zone": "EST",
+    "zone_dst": "EDT",
+    "zone_std": "EST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Richmond",
+  "country": {
+    "code": "CA",
+    "name": "Canada"
+  },
+  "elevation": {
+    "feet": 14,
+    "meters": 4
+  },
+  "geometry": {
+    "coordinates": [-123.183998, 49.193901],
+    "type": "Point"
+  },
+  "iata": "YVR",
+  "icao": "CYVR",
+  "latitude": {
+    "decimal": 49.193901,
+    "degrees": "49° 11' 38.04\" N"
+  },
+  "location": "Richmond, British Columbia, Canada",
+  "longitude": {
+    "decimal": -123.183998,
+    "degrees": "123° 11' 2.392\" W"
+  },
+  "name": "Vancouver International Airport",
+  "region": {
+    "code": "BC",
+    "name": "British Columbia"
+  },
+  "state": {
+    "code": "BC",
+    "name": "British Columbia"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0800",
+    "name": "America/Vancouver",
+    "offset_dst": "-07:00",
+    "offset_std": "-08:00",
+    "tzid": "America/Vancouver",
+    "zone": "PST",
+    "zone_dst": "PDT",
+    "zone_std": "PST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Goose Bay",
+  "country": {
+    "code": "CA",
+    "name": "Canada"
+  },
+  "elevation": {
+    "feet": 160,
+    "meters": 49
+  },
+  "geometry": {
+    "coordinates": [-60.4258, 53.319199],
+    "type": "Point"
+  },
+  "iata": "YYR",
+  "icao": "CYYR",
+  "latitude": {
+    "decimal": 53.319199,
+    "degrees": "53° 19' 9.116\" N"
+  },
+  "location": "Goose Bay, NL, Newfoundland and Labrador, Canada",
+  "longitude": {
+    "decimal": -60.4258,
+    "degrees": "60° 25' 32.88\" W"
+  },
+  "name": "Goose Bay Airport",
+  "region": {
+    "code": "NL",
+    "name": "Newfoundland and Labrador"
+  },
+  "state": {
+    "code": "NL",
+    "name": "NL"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0400",
+    "name": "America/Goose_Bay",
+    "offset_dst": "-03:00",
+    "offset_std": "-04:00",
+    "tzid": "America/Goose_Bay",
+    "zone": "AST",
+    "zone_dst": "ADT",
+    "zone_std": "AST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "St. John's",
+  "country": {
+    "code": "CA",
+    "name": "Canada"
+  },
+  "elevation": {
+    "feet": 461,
+    "meters": 141
+  },
+  "geometry": {
+    "coordinates": [-52.7519, 47.618599],
+    "type": "Point"
+  },
+  "iata": "YYT",
+  "icao": "CYYT",
+  "latitude": {
+    "decimal": 47.618599,
+    "degrees": "47° 37' 6.956\" N"
+  },
+  "location": "St. John's, NL, Newfoundland and Labrador, Canada",
+  "longitude": {
+    "decimal": -52.7519,
+    "degrees": "52° 45' 6.839\" W"
+  },
+  "name": "St. John's International Airport",
+  "region": {
+    "code": "NL",
+    "name": "Newfoundland and Labrador"
+  },
+  "state": {
+    "code": "NL",
+    "name": "NL"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0330",
+    "name": "America/St_Johns",
+    "offset_dst": "-02:30",
+    "offset_std": "-03:30",
+    "tzid": "America/St_Johns",
+    "zone": "NST",
+    "zone_dst": "NDT",
+    "zone_std": "NST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Belfast",
+  "country": {
+    "code": "GB",
+    "name": "United Kingdom"
+  },
+  "elevation": {
+    "feet": 268,
+    "meters": 82
+  },
+  "geometry": {
+    "coordinates": [-6.21583, 54.657501],
+    "type": "Point"
+  },
+  "iata": "BFS",
+  "icao": "EGAA",
+  "latitude": {
+    "decimal": 54.657501,
+    "degrees": "54° 39' 27.00\" N"
+  },
+  "location": "Belfast, Northern Ireland, United Kingdom",
+  "longitude": {
+    "decimal": -6.21583,
+    "degrees": "6° 12' 56.98\" W"
+  },
+  "name": "Belfast International Airport",
+  "region": {
+    "code": "NIR",
+    "name": "Northern Ireland"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "+0000",
+    "name": "Europe/London",
+    "offset_dst": "+01:00",
+    "offset_std": "+00:00",
+    "tzid": "Europe/London",
+    "zone": "GMT",
+    "zone_dst": "BST",
+    "zone_std": "GMT"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Manchester",
+  "country": {
+    "code": "GB",
+    "name": "United Kingdom"
+  },
+  "elevation": {
+    "feet": 257,
+    "meters": 78
+  },
+  "geometry": {
+    "coordinates": [-2.279521, 53.349375],
+    "type": "Point"
+  },
+  "iata": "MAN",
+  "icao": "EGCC",
+  "latitude": {
+    "decimal": 53.349375,
+    "degrees": "53° 20' 57.75\" N"
+  },
+  "location": "Manchester, England, United Kingdom",
+  "longitude": {
+    "decimal": -2.279521,
+    "degrees": "2° 16' 46.27\" W"
+  },
+  "name": "Manchester Airport",
+  "region": {
+    "code": "ENG",
+    "name": "England"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "+0000",
+    "name": "Europe/London",
+    "offset_dst": "+01:00",
+    "offset_std": "+00:00",
+    "tzid": "Europe/London",
+    "zone": "GMT",
+    "zone_dst": "BST",
+    "zone_std": "GMT"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Prestwick",
+  "country": {
+    "code": "GB",
+    "name": "United Kingdom"
+  },
+  "elevation": {
+    "feet": 65,
+    "meters": 20
+  },
+  "geometry": {
+    "coordinates": [-4.587019, 55.502003],
+    "type": "Point"
+  },
+  "iata": "PIK",
+  "icao": "EGPK",
+  "latitude": {
+    "decimal": 55.502003,
+    "degrees": "55° 30' 7.210\" N"
+  },
+  "location": "Prestwick, Scotland, United Kingdom",
+  "longitude": {
+    "decimal": -4.587019,
+    "degrees": "4° 35' 13.26\" W"
+  },
+  "name": "Glasgow Prestwick Airport",
+  "region": {
+    "code": "SCT",
+    "name": "Scotland"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "+0000",
+    "name": "Europe/London",
+    "offset_dst": "+01:00",
+    "offset_std": "+00:00",
+    "tzid": "Europe/London",
+    "zone": "GMT",
+    "zone_dst": "BST",
+    "zone_std": "GMT"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Fingal",
+  "country": {
+    "code": "IE",
+    "name": "Ireland"
+  },
+  "elevation": {
+    "feet": 242,
+    "meters": 74
+  },
+  "geometry": {
+    "coordinates": [-6.262121, 53.428713],
+    "type": "Point"
+  },
+  "iata": "DUB",
+  "icao": "EIDW",
+  "latitude": {
+    "decimal": 53.428713,
+    "degrees": "53° 25' 43.36\" N"
+  },
+  "location": "Fingal, Leinster, Ireland",
+  "longitude": {
+    "decimal": -6.262121,
+    "degrees": "6° 15' 43.63\" W"
+  },
+  "name": "Dublin Airport",
+  "region": {
+    "code": "L",
+    "name": "Leinster"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "+0000",
+    "name": "Europe/Dublin",
+    "offset_dst": "+00:00",
+    "offset_std": "+01:00",
+    "tzid": "Europe/Dublin",
+    "zone": "GMT",
+    "zone_dst": "GMT",
+    "zone_std": "IST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Shannon",
+  "country": {
+    "code": "IE",
+    "name": "Ireland"
+  },
+  "elevation": {
+    "feet": 46,
+    "meters": 14
+  },
+  "geometry": {
+    "coordinates": [-8.92482, 52.702],
+    "type": "Point"
+  },
+  "iata": "SNN",
+  "icao": "EINN",
+  "latitude": {
+    "decimal": 52.702,
+    "degrees": "52° 42' 7.199\" N"
+  },
+  "location": "Shannon, Shannon Municipal District, Ireland",
+  "longitude": {
+    "decimal": -8.92482,
+    "degrees": "8° 55' 29.35\" W"
+  },
+  "name": "Shannon Airport",
+  "region": {
+    "name": "Shannon Municipal District"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "+0000",
+    "name": "Europe/Dublin",
+    "offset_dst": "+00:00",
+    "offset_std": "+01:00",
+    "tzid": "Europe/Dublin",
+    "zone": "GMT",
+    "zone_dst": "GMT",
+    "zone_std": "IST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Egg Harbor Township",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 75,
+    "meters": 23
+  },
+  "geometry": {
+    "coordinates": [-74.577202, 39.4576],
+    "type": "Point"
+  },
+  "iata": "ACY",
+  "icao": "KACY",
+  "latitude": {
+    "decimal": 39.4576,
+    "degrees": "39° 27' 27.35\" N"
+  },
+  "location": "Egg Harbor Township, New Jersey, United States",
+  "longitude": {
+    "decimal": -74.577202,
+    "degrees": "74° 34' 37.92\" W"
+  },
+  "name": "Atlantic City International Airport",
+  "region": {
+    "code": "NJ",
+    "name": "New Jersey"
+  },
+  "state": {
+    "code": "NJ",
+    "name": "New Jersey"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0500",
+    "name": "America/New_York",
+    "offset_dst": "-04:00",
+    "offset_std": "-05:00",
+    "tzid": "America/New_York",
+    "zone": "EST",
+    "zone_dst": "EDT",
+    "zone_std": "EST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Amarillo",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 3607,
+    "meters": 1099
+  },
+  "geometry": {
+    "coordinates": [-101.706001, 35.219398],
+    "type": "Point"
+  },
+  "iata": "AMA",
+  "icao": "KAMA",
+  "latitude": {
+    "decimal": 35.219398,
+    "degrees": "35° 13' 9.832\" N"
+  },
+  "location": "Amarillo, Texas, United States",
+  "longitude": {
+    "decimal": -101.706001,
+    "degrees": "101° 42' 21.60\" W"
+  },
+  "name": "Rick Husband Amarillo International Airport",
+  "region": {
+    "code": "TX",
+    "name": "Texas"
+  },
+  "state": {
+    "code": "TX",
+    "name": "Texas"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0600",
+    "name": "America/Chicago",
+    "offset_dst": "-05:00",
+    "offset_std": "-06:00",
+    "tzid": "America/Chicago",
+    "zone": "CST",
+    "zone_dst": "CDT",
+    "zone_std": "CST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Atlanta",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 1026,
+    "meters": 313
+  },
+  "geometry": {
+    "coordinates": [-84.428101, 33.6367],
+    "type": "Point"
+  },
+  "iata": "ATL",
+  "icao": "KATL",
+  "latitude": {
+    "decimal": 33.6367,
+    "degrees": "33° 38' 12.11\" N"
+  },
+  "location": "Atlanta, Georgia, United States",
+  "longitude": {
+    "decimal": -84.428101,
+    "degrees": "84° 25' 41.16\" W"
+  },
+  "name": "Hartsfield Jackson Atlanta International Airport",
+  "region": {
+    "code": "GA",
+    "name": "Georgia"
+  },
+  "state": {
+    "code": "GA",
+    "name": "Georgia"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0500",
+    "name": "America/New_York",
+    "offset_dst": "-04:00",
+    "offset_std": "-05:00",
+    "tzid": "America/New_York",
+    "zone": "EST",
+    "zone_dst": "EDT",
+    "zone_std": "EST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Austin",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 542,
+    "meters": 165
+  },
+  "geometry": {
+    "coordinates": [-97.662015, 30.197535],
+    "type": "Point"
+  },
+  "iata": "AUS",
+  "icao": "KAUS",
+  "latitude": {
+    "decimal": 30.197535,
+    "degrees": "30° 11' 51.12\" N"
+  },
+  "location": "Austin, Texas, United States",
+  "longitude": {
+    "decimal": -97.662015,
+    "degrees": "97° 39' 43.25\" W"
+  },
+  "name": "Austin Bergstrom International Airport",
+  "region": {
+    "code": "TX",
+    "name": "Texas"
+  },
+  "state": {
+    "code": "TX",
+    "name": "Texas"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0600",
+    "name": "America/Chicago",
+    "offset_dst": "-05:00",
+    "offset_std": "-06:00",
+    "tzid": "America/Chicago",
+    "zone": "CST",
+    "zone_dst": "CDT",
+    "zone_std": "CST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Windsor Locks",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 173,
+    "meters": 53
+  },
+  "geometry": {
+    "coordinates": [-72.688066, 41.93851],
+    "type": "Point"
+  },
+  "iata": "BDL",
+  "icao": "KBDL",
+  "latitude": {
+    "decimal": 41.93851,
+    "degrees": "41° 56' 18.63\" N"
+  },
+  "location": "Windsor Locks, Connecticut, United States",
+  "longitude": {
+    "decimal": -72.688066,
+    "degrees": "72° 41' 17.03\" W"
+  },
+  "name": "Bradley International Airport",
+  "region": {
+    "code": "CT",
+    "name": "Connecticut"
+  },
+  "state": {
+    "code": "CT",
+    "name": "Connecticut"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0500",
+    "name": "America/New_York",
+    "offset_dst": "-04:00",
+    "offset_std": "-05:00",
+    "tzid": "America/New_York",
+    "zone": "EST",
+    "zone_dst": "EDT",
+    "zone_std": "EST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Seattle",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 21,
+    "meters": 6
+  },
+  "geometry": {
+    "coordinates": [-122.302002, 47.529999],
+    "type": "Point"
+  },
+  "iata": "BFI",
+  "icao": "KBFI",
+  "latitude": {
+    "decimal": 47.529999,
+    "degrees": "47° 31' 47.99\" N"
+  },
+  "location": "Seattle, Washington, United States",
+  "longitude": {
+    "decimal": -122.302002,
+    "degrees": "122° 18' 7.207\" W"
+  },
+  "name": "Boeing Field King County International Airport",
+  "region": {
+    "code": "WA",
+    "name": "Washington"
+  },
+  "state": {
+    "code": "WA",
+    "name": "Washington"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0800",
+    "name": "America/Los_Angeles",
+    "offset_dst": "-07:00",
+    "offset_std": "-08:00",
+    "tzid": "America/Los_Angeles",
+    "zone": "PST",
+    "zone_dst": "PDT",
+    "zone_std": "PST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Bangor",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 192,
+    "meters": 59
+  },
+  "geometry": {
+    "coordinates": [-68.828102, 44.8074],
+    "type": "Point"
+  },
+  "iata": "BGR",
+  "icao": "KBGR",
+  "latitude": {
+    "decimal": 44.8074,
+    "degrees": "44° 48' 26.64\" N"
+  },
+  "location": "Bangor, Maine, United States",
+  "longitude": {
+    "decimal": -68.828102,
+    "degrees": "68° 49' 41.16\" W"
+  },
+  "name": "Bangor International Airport",
+  "region": {
+    "code": "ME",
+    "name": "Maine"
+  },
+  "state": {
+    "code": "ME",
+    "name": "Maine"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0500",
+    "name": "America/New_York",
+    "offset_dst": "-04:00",
+    "offset_std": "-05:00",
+    "tzid": "America/New_York",
+    "zone": "EST",
+    "zone_dst": "EDT",
+    "zone_std": "EST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Billings",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 3652,
+    "meters": 1113
+  },
+  "geometry": {
+    "coordinates": [-108.542999, 45.807701],
+    "type": "Point"
+  },
+  "iata": "BIL",
+  "icao": "KBIL",
+  "latitude": {
+    "decimal": 45.807701,
+    "degrees": "45° 48' 27.72\" N"
+  },
+  "location": "Billings, Montana, United States",
+  "longitude": {
+    "decimal": -108.542999,
+    "degrees": "108° 32' 34.79\" W"
+  },
+  "name": "Billings Logan International Airport",
+  "region": {
+    "code": "MT",
+    "name": "Montana"
+  },
+  "state": {
+    "code": "MT",
+    "name": "Montana"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0700",
+    "name": "America/Denver",
+    "offset_dst": "-06:00",
+    "offset_std": "-07:00",
+    "tzid": "America/Denver",
+    "zone": "MST",
+    "zone_dst": "MDT",
+    "zone_std": "MST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Nashville-Davidson",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 599,
+    "meters": 183
+  },
+  "geometry": {
+    "coordinates": [-86.6782, 36.1245],
+    "type": "Point"
+  },
+  "iata": "BNA",
+  "icao": "KBNA",
+  "latitude": {
+    "decimal": 36.1245,
+    "degrees": "36° 7' 28.19\" N"
+  },
+  "location": "Nashville-Davidson, Tennessee, United States",
+  "longitude": {
+    "decimal": -86.6782,
+    "degrees": "86° 40' 41.52\" W"
+  },
+  "name": "Nashville International Airport",
+  "region": {
+    "code": "TN",
+    "name": "Tennessee"
+  },
+  "state": {
+    "code": "TN",
+    "name": "Tennessee"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0600",
+    "name": "America/Chicago",
+    "offset_dst": "-05:00",
+    "offset_std": "-06:00",
+    "tzid": "America/Chicago",
+    "zone": "CST",
+    "zone_dst": "CDT",
+    "zone_std": "CST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Boise",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 2871,
+    "meters": 875
+  },
+  "geometry": {
+    "coordinates": [-116.223, 43.5644],
+    "type": "Point"
+  },
+  "iata": "BOI",
+  "icao": "KBOI",
+  "latitude": {
+    "decimal": 43.5644,
+    "degrees": "43° 33' 51.83\" N"
+  },
+  "location": "Boise, Idaho, United States",
+  "longitude": {
+    "decimal": -116.223,
+    "degrees": "116° 13' 22.79\" W"
+  },
+  "name": "Boise Air Terminal/Gowen Field",
+  "region": {
+    "code": "ID",
+    "name": "Idaho"
+  },
+  "state": {
+    "code": "ID",
+    "name": "Idaho"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0700",
+    "name": "America/Boise",
+    "offset_dst": "-06:00",
+    "offset_std": "-07:00",
+    "tzid": "America/Boise",
+    "zone": "MST",
+    "zone_dst": "MDT",
+    "zone_std": "MST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Boston",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 20,
+    "meters": 6
+  },
+  "geometry": {
+    "coordinates": [-71.005203, 42.3643],
+    "type": "Point"
+  },
+  "iata": "BOS",
+  "icao": "KBOS",
+  "latitude": {
+    "decimal": 42.3643,
+    "degrees": "42° 21' 51.48\" N"
+  },
+  "location": "Boston, Massachusetts, United States",
+  "longitude": {
+    "decimal": -71.005203,
+    "degrees": "71° 0' 18.73\" W"
+  },
+  "name": "Logan International Airport",
+  "region": {
+    "code": "MA",
+    "name": "Massachusetts"
+  },
+  "state": {
+    "code": "MA",
+    "name": "Massachusetts"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0500",
+    "name": "America/New_York",
+    "offset_dst": "-04:00",
+    "offset_std": "-05:00",
+    "tzid": "America/New_York",
+    "zone": "EST",
+    "zone_dst": "EDT",
+    "zone_std": "EST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Town of Cheektowaga",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 728,
+    "meters": 222
+  },
+  "geometry": {
+    "coordinates": [-78.732201, 42.940498],
+    "type": "Point"
+  },
+  "iata": "BUF",
+  "icao": "KBUF",
+  "latitude": {
+    "decimal": 42.940498,
+    "degrees": "42° 56' 25.79\" N"
+  },
+  "location": "Town of Cheektowaga, New York, United States",
+  "longitude": {
+    "decimal": -78.732201,
+    "degrees": "78° 43' 55.92\" W"
+  },
+  "name": "Buffalo Niagara International Airport",
+  "region": {
+    "code": "NY",
+    "name": "New York"
+  },
+  "state": {
+    "code": "NY",
+    "name": "New York"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0500",
+    "name": "America/New_York",
+    "offset_dst": "-04:00",
+    "offset_std": "-05:00",
+    "tzid": "America/New_York",
+    "zone": "EST",
+    "zone_dst": "EDT",
+    "zone_std": "EST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Ehrmansville",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 146,
+    "meters": 45
+  },
+  "geometry": {
+    "coordinates": [-76.668297, 39.1754],
+    "type": "Point"
+  },
+  "iata": "BWI",
+  "icao": "KBWI",
+  "latitude": {
+    "decimal": 39.1754,
+    "degrees": "39° 10' 31.44\" N"
+  },
+  "location": "Ehrmansville, Maryland, United States",
+  "longitude": {
+    "decimal": -76.668297,
+    "degrees": "76° 40' 5.869\" W"
+  },
+  "name": "Baltimore/Washington International Thurgood Marshall Airport",
+  "region": {
+    "code": "MD",
+    "name": "Maryland"
+  },
+  "state": {
+    "code": "MD",
+    "name": "Maryland"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0500",
+    "name": "America/New_York",
+    "offset_dst": "-04:00",
+    "offset_std": "-05:00",
+    "tzid": "America/New_York",
+    "zone": "EST",
+    "zone_dst": "EDT",
+    "zone_std": "EST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "North Charleston",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 46,
+    "meters": 14
+  },
+  "geometry": {
+    "coordinates": [-80.040497, 32.898602],
+    "type": "Point"
+  },
+  "iata": "CHS",
+  "icao": "KCHS",
+  "latitude": {
+    "decimal": 32.898602,
+    "degrees": "32° 53' 54.96\" N"
+  },
+  "location": "North Charleston, South Carolina, United States",
+  "longitude": {
+    "decimal": -80.040497,
+    "degrees": "80° 2' 25.78\" W"
+  },
+  "name": "Charleston International Airport",
+  "region": {
+    "code": "SC",
+    "name": "South Carolina"
+  },
+  "state": {
+    "code": "SC",
+    "name": "South Carolina"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0500",
+    "name": "America/New_York",
+    "offset_dst": "-04:00",
+    "offset_std": "-05:00",
+    "tzid": "America/New_York",
+    "zone": "EST",
+    "zone_dst": "EDT",
+    "zone_std": "EST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Columbus",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 815,
+    "meters": 248
+  },
+  "geometry": {
+    "coordinates": [-82.891899, 39.998001],
+    "type": "Point"
+  },
+  "iata": "CMH",
+  "icao": "KCMH",
+  "latitude": {
+    "decimal": 39.998001,
+    "degrees": "39° 59' 52.80\" N"
+  },
+  "location": "Columbus, Ohio, United States",
+  "longitude": {
+    "decimal": -82.891899,
+    "degrees": "82° 53' 30.83\" W"
+  },
+  "name": "John Glenn Columbus International Airport",
+  "region": {
+    "code": "OH",
+    "name": "Ohio"
+  },
+  "state": {
+    "code": "OH",
+    "name": "Ohio"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0500",
+    "name": "America/New_York",
+    "offset_dst": "-04:00",
+    "offset_std": "-05:00",
+    "tzid": "America/New_York",
+    "zone": "EST",
+    "zone_dst": "EDT",
+    "zone_std": "EST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Burlington",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 896,
+    "meters": 273
+  },
+  "geometry": {
+    "coordinates": [-84.667801, 39.048801],
+    "type": "Point"
+  },
+  "iata": "CVG",
+  "icao": "KCVG",
+  "latitude": {
+    "decimal": 39.048801,
+    "degrees": "39° 2' 55.68\" N"
+  },
+  "location": "Burlington, Kentucky, United States",
+  "longitude": {
+    "decimal": -84.667801,
+    "degrees": "84° 40' 4.083\" W"
+  },
+  "name": "Cincinnati Northern Kentucky International Airport",
+  "region": {
+    "code": "KY",
+    "name": "Kentucky"
+  },
+  "state": {
+    "code": "KY",
+    "name": "Kentucky"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0500",
+    "name": "America/New_York",
+    "offset_dst": "-04:00",
+    "offset_std": "-05:00",
+    "tzid": "America/New_York",
+    "zone": "EST",
+    "zone_dst": "EDT",
+    "zone_std": "EST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Denver",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 5431,
+    "meters": 1655
+  },
+  "geometry": {
+    "coordinates": [-104.672997, 39.861698],
+    "type": "Point"
+  },
+  "iata": "DEN",
+  "icao": "KDEN",
+  "latitude": {
+    "decimal": 39.861698,
+    "degrees": "39° 51' 42.11\" N"
+  },
+  "location": "Denver, Colorado, United States",
+  "longitude": {
+    "decimal": -104.672997,
+    "degrees": "104° 40' 22.78\" W"
+  },
+  "name": "Denver International Airport",
+  "region": {
+    "code": "CO",
+    "name": "Colorado"
+  },
+  "state": {
+    "code": "CO",
+    "name": "Colorado"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0700",
+    "name": "America/Denver",
+    "offset_dst": "-06:00",
+    "offset_std": "-07:00",
+    "tzid": "America/Denver",
+    "zone": "MST",
+    "zone_dst": "MDT",
+    "zone_std": "MST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Grapevine",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 607,
+    "meters": 185
+  },
+  "geometry": {
+    "coordinates": [-97.038002, 32.896801],
+    "type": "Point"
+  },
+  "iata": "DFW",
+  "icao": "KDFW",
+  "latitude": {
+    "decimal": 32.896801,
+    "degrees": "32° 53' 48.48\" N"
+  },
+  "location": "Grapevine, Texas, United States",
+  "longitude": {
+    "decimal": -97.038002,
+    "degrees": "97° 2' 16.80\" W"
+  },
+  "name": "Dallas Fort Worth International Airport",
+  "region": {
+    "code": "TX",
+    "name": "Texas"
+  },
+  "state": {
+    "code": "TX",
+    "name": "Texas"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0600",
+    "name": "America/Chicago",
+    "offset_dst": "-05:00",
+    "offset_std": "-06:00",
+    "tzid": "America/Chicago",
+    "zone": "CST",
+    "zone_dst": "CDT",
+    "zone_std": "CST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Romulus",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 645,
+    "meters": 197
+  },
+  "geometry": {
+    "coordinates": [-83.353401, 42.212399],
+    "type": "Point"
+  },
+  "iata": "DTW",
+  "icao": "KDTW",
+  "latitude": {
+    "decimal": 42.212399,
+    "degrees": "42° 12' 44.63\" N"
+  },
+  "location": "Romulus, Michigan, United States",
+  "longitude": {
+    "decimal": -83.353401,
+    "degrees": "83° 21' 12.24\" W"
+  },
+  "name": "Detroit Metropolitan Wayne County Airport",
+  "region": {
+    "code": "MI",
+    "name": "Michigan"
+  },
+  "state": {
+    "code": "MI",
+    "name": "Michigan"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0500",
+    "name": "America/Detroit",
+    "offset_dst": "-04:00",
+    "offset_std": "-05:00",
+    "tzid": "America/Detroit",
+    "zone": "EST",
+    "zone_dst": "EDT",
+    "zone_std": "EST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "El Paso",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 3959,
+    "meters": 1207
+  },
+  "geometry": {
+    "coordinates": [-106.377998, 31.807199],
+    "type": "Point"
+  },
+  "iata": "ELP",
+  "icao": "KELP",
+  "latitude": {
+    "decimal": 31.807199,
+    "degrees": "31° 48' 25.91\" N"
+  },
+  "location": "El Paso, Texas, United States",
+  "longitude": {
+    "decimal": -106.377998,
+    "degrees": "106° 22' 40.79\" W"
+  },
+  "name": "El Paso International Airport",
+  "region": {
+    "code": "TX",
+    "name": "Texas"
+  },
+  "state": {
+    "code": "TX",
+    "name": "Texas"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0700",
+    "name": "America/Denver",
+    "offset_dst": "-06:00",
+    "offset_std": "-07:00",
+    "tzid": "America/Denver",
+    "zone": "MST",
+    "zone_dst": "MDT",
+    "zone_std": "MST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Eugene",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 374,
+    "meters": 114
+  },
+  "geometry": {
+    "coordinates": [-123.211998, 44.124599],
+    "type": "Point"
+  },
+  "iata": "EUG",
+  "icao": "KEUG",
+  "latitude": {
+    "decimal": 44.124599,
+    "degrees": "44° 7' 28.55\" N"
+  },
+  "location": "Eugene, Oregon, United States",
+  "longitude": {
+    "decimal": -123.211998,
+    "degrees": "123° 12' 43.19\" W"
+  },
+  "name": "Mahlon Sweet Field",
+  "region": {
+    "code": "OR",
+    "name": "Oregon"
+  },
+  "state": {
+    "code": "OR",
+    "name": "Oregon"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0800",
+    "name": "America/Los_Angeles",
+    "offset_dst": "-07:00",
+    "offset_std": "-08:00",
+    "tzid": "America/Los_Angeles",
+    "zone": "PST",
+    "zone_dst": "PDT",
+    "zone_std": "PST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Newark",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 18,
+    "meters": 5
+  },
+  "geometry": {
+    "coordinates": [-74.168701, 40.692501],
+    "type": "Point"
+  },
+  "iata": "EWR",
+  "icao": "KEWR",
+  "latitude": {
+    "decimal": 40.692501,
+    "degrees": "40° 41' 33.00\" N"
+  },
+  "location": "Newark, New Jersey, United States",
+  "longitude": {
+    "decimal": -74.168701,
+    "degrees": "74° 10' 7.323\" W"
+  },
+  "name": "Newark Liberty International Airport",
+  "region": {
+    "code": "NJ",
+    "name": "New Jersey"
+  },
+  "state": {
+    "code": "NJ",
+    "name": "New Jersey"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0500",
+    "name": "America/New_York",
+    "offset_dst": "-04:00",
+    "offset_std": "-05:00",
+    "tzid": "America/New_York",
+    "zone": "EST",
+    "zone_dst": "EDT",
+    "zone_std": "EST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Fresno",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 336,
+    "meters": 102
+  },
+  "geometry": {
+    "coordinates": [-119.718002, 36.776199],
+    "type": "Point"
+  },
+  "iata": "FAT",
+  "icao": "KFAT",
+  "latitude": {
+    "decimal": 36.776199,
+    "degrees": "36° 46' 34.31\" N"
+  },
+  "location": "Fresno, California, United States",
+  "longitude": {
+    "decimal": -119.718002,
+    "degrees": "119° 43' 4.807\" W"
+  },
+  "name": "Fresno Yosemite International Airport",
+  "region": {
+    "code": "CA",
+    "name": "California"
+  },
+  "state": {
+    "code": "CA",
+    "name": "California"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0800",
+    "name": "America/Los_Angeles",
+    "offset_dst": "-07:00",
+    "offset_std": "-08:00",
+    "tzid": "America/Los_Angeles",
+    "zone": "PST",
+    "zone_dst": "PDT",
+    "zone_std": "PST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Fort Lauderdale",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 9,
+    "meters": 3
+  },
+  "geometry": {
+    "coordinates": [-80.152702, 26.072599],
+    "type": "Point"
+  },
+  "iata": "FLL",
+  "icao": "KFLL",
+  "latitude": {
+    "decimal": 26.072599,
+    "degrees": "26° 4' 21.35\" N"
+  },
+  "location": "Fort Lauderdale, Florida, United States",
+  "longitude": {
+    "decimal": -80.152702,
+    "degrees": "80° 9' 9.727\" W"
+  },
+  "name": "Fort Lauderdale Hollywood International Airport",
+  "region": {
+    "code": "FL",
+    "name": "Florida"
+  },
+  "state": {
+    "code": "FL",
+    "name": "Florida"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0500",
+    "name": "America/New_York",
+    "offset_dst": "-04:00",
+    "offset_std": "-05:00",
+    "tzid": "America/New_York",
+    "zone": "EST",
+    "zone_dst": "EDT",
+    "zone_std": "EST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Sioux Falls",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 1429,
+    "meters": 436
+  },
+  "geometry": {
+    "coordinates": [-96.741152, 43.585463],
+    "type": "Point"
+  },
+  "iata": "FSD",
+  "icao": "KFSD",
+  "latitude": {
+    "decimal": 43.585463,
+    "degrees": "43° 35' 7.666\" N"
+  },
+  "location": "Sioux Falls, South Dakota, United States",
+  "longitude": {
+    "decimal": -96.741152,
+    "degrees": "96° 44' 28.14\" W"
+  },
+  "name": "Sioux Falls Regional Airport / Joe Foss Field",
+  "region": {
+    "code": "SD",
+    "name": "South Dakota"
+  },
+  "state": {
+    "code": "SD",
+    "name": "South Dakota"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0600",
+    "name": "America/Chicago",
+    "offset_dst": "-05:00",
+    "offset_std": "-06:00",
+    "tzid": "America/Chicago",
+    "zone": "CST",
+    "zone_dst": "CDT",
+    "zone_std": "CST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Spokane",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 2376,
+    "meters": 724
+  },
+  "geometry": {
+    "coordinates": [-117.533997, 47.6199],
+    "type": "Point"
+  },
+  "iata": "GEG",
+  "icao": "KGEG",
+  "latitude": {
+    "decimal": 47.6199,
+    "degrees": "47° 37' 11.64\" N"
+  },
+  "location": "Spokane, Washington, United States",
+  "longitude": {
+    "decimal": -117.533997,
+    "degrees": "117° 32' 2.389\" W"
+  },
+  "name": "Spokane International Airport",
+  "region": {
+    "code": "WA",
+    "name": "Washington"
+  },
+  "state": {
+    "code": "WA",
+    "name": "Washington"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0800",
+    "name": "America/Los_Angeles",
+    "offset_dst": "-07:00",
+    "offset_std": "-08:00",
+    "tzid": "America/Los_Angeles",
+    "zone": "PST",
+    "zone_dst": "PDT",
+    "zone_std": "PST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Greensboro",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 925,
+    "meters": 282
+  },
+  "geometry": {
+    "coordinates": [-79.937302, 36.097801],
+    "type": "Point"
+  },
+  "iata": "GSO",
+  "icao": "KGSO",
+  "latitude": {
+    "decimal": 36.097801,
+    "degrees": "36° 5' 52.08\" N"
+  },
+  "location": "Greensboro, North Carolina, United States",
+  "longitude": {
+    "decimal": -79.937302,
+    "degrees": "79° 56' 14.28\" W"
+  },
+  "name": "Piedmont Triad International Airport",
+  "region": {
+    "code": "NC",
+    "name": "North Carolina"
+  },
+  "state": {
+    "code": "NC",
+    "name": "North Carolina"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0500",
+    "name": "America/New_York",
+    "offset_dst": "-04:00",
+    "offset_std": "-05:00",
+    "tzid": "America/New_York",
+    "zone": "EST",
+    "zone_dst": "EDT",
+    "zone_std": "EST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Houston",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 97,
+    "meters": 30
+  },
+  "geometry": {
+    "coordinates": [-95.3414, 29.9844],
+    "type": "Point"
+  },
+  "iata": "IAH",
+  "icao": "KIAH",
+  "latitude": {
+    "decimal": 29.9844,
+    "degrees": "29° 59' 3.840\" N"
+  },
+  "location": "Houston, Texas, United States",
+  "longitude": {
+    "decimal": -95.3414,
+    "degrees": "95° 20' 29.03\" W"
+  },
+  "name": "George Bush Intercontinental Houston Airport",
+  "region": {
+    "code": "TX",
+    "name": "Texas"
+  },
+  "state": {
+    "code": "TX",
+    "name": "Texas"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0600",
+    "name": "America/Chicago",
+    "offset_dst": "-05:00",
+    "offset_std": "-06:00",
+    "tzid": "America/Chicago",
+    "zone": "CST",
+    "zone_dst": "CDT",
+    "zone_std": "CST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Indianapolis",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 797,
+    "meters": 243
+  },
+  "geometry": {
+    "coordinates": [-86.294403, 39.7173],
+    "type": "Point"
+  },
+  "iata": "IND",
+  "icao": "KIND",
+  "latitude": {
+    "decimal": 39.7173,
+    "degrees": "39° 43' 2.280\" N"
+  },
+  "location": "Indianapolis, Indiana, United States",
+  "longitude": {
+    "decimal": -86.294403,
+    "degrees": "86° 17' 39.85\" W"
+  },
+  "name": "Indianapolis International Airport",
+  "region": {
+    "code": "IN",
+    "name": "Indiana"
+  },
+  "state": {
+    "code": "IN",
+    "name": "Indiana"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0500",
+    "name": "America/Indiana/Indianapolis",
+    "offset_dst": "-04:00",
+    "offset_std": "-05:00",
+    "tzid": "America/Indiana/Indianapolis",
+    "zone": "EST",
+    "zone_dst": "EDT",
+    "zone_std": "EST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Mesa",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 1382,
+    "meters": 421
+  },
+  "geometry": {
+    "coordinates": [-111.654999, 33.3078],
+    "type": "Point"
+  },
+  "iata": "AZA",
+  "icao": "KIWA",
+  "latitude": {
+    "decimal": 33.3078,
+    "degrees": "33° 18' 28.08\" N"
+  },
+  "location": "Mesa, Arizona, United States",
+  "longitude": {
+    "decimal": -111.654999,
+    "degrees": "111° 39' 17.99\" W"
+  },
+  "name": "Phoenix–Mesa Gateway Airport",
+  "region": {
+    "code": "AZ",
+    "name": "Arizona"
+  },
+  "state": {
+    "code": "AZ",
+    "name": "Arizona"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "-0700",
+    "name": "America/Phoenix",
+    "offset_dst": "-07:00",
+    "offset_std": "-07:00",
+    "tzid": "America/Phoenix",
+    "zone": "MST",
+    "zone_dst": "MST",
+    "zone_std": "MST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Jacksonville",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 30,
+    "meters": 9
+  },
+  "geometry": {
+    "coordinates": [-81.687897, 30.494101],
+    "type": "Point"
+  },
+  "iata": "JAX",
+  "icao": "KJAX",
+  "latitude": {
+    "decimal": 30.494101,
+    "degrees": "30° 29' 38.76\" N"
+  },
+  "location": "Jacksonville, Florida, United States",
+  "longitude": {
+    "decimal": -81.687897,
+    "degrees": "81° 41' 16.42\" W"
+  },
+  "name": "Jacksonville International Airport",
+  "region": {
+    "code": "FL",
+    "name": "Florida"
+  },
+  "state": {
+    "code": "FL",
+    "name": "Florida"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0500",
+    "name": "America/New_York",
+    "offset_dst": "-04:00",
+    "offset_std": "-05:00",
+    "tzid": "America/New_York",
+    "zone": "EST",
+    "zone_dst": "EDT",
+    "zone_std": "EST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "New York",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 13,
+    "meters": 4
+  },
+  "geometry": {
+    "coordinates": [-73.779317, 40.639447],
+    "type": "Point"
+  },
+  "iata": "JFK",
+  "icao": "KJFK",
+  "latitude": {
+    "decimal": 40.639447,
+    "degrees": "40° 38' 22.00\" N"
+  },
+  "location": "New York, New York, United States",
+  "longitude": {
+    "decimal": -73.779317,
+    "degrees": "73° 46' 45.54\" W"
+  },
+  "name": "John F Kennedy International Airport",
+  "region": {
+    "code": "NY",
+    "name": "New York"
+  },
+  "state": {
+    "code": "NY",
+    "name": "New York"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0500",
+    "name": "America/New_York",
+    "offset_dst": "-04:00",
+    "offset_std": "-05:00",
+    "tzid": "America/New_York",
+    "zone": "EST",
+    "zone_dst": "EDT",
+    "zone_std": "EST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Paradise",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 2181,
+    "meters": 665
+  },
+  "geometry": {
+    "coordinates": [-115.151817, 36.083361],
+    "type": "Point"
+  },
+  "iata": "LAS",
+  "icao": "KLAS",
+  "latitude": {
+    "decimal": 36.083361,
+    "degrees": "36° 5' 0.099\" N"
+  },
+  "location": "Paradise, Nevada, United States",
+  "longitude": {
+    "decimal": -115.151817,
+    "degrees": "115° 9' 6.541\" W"
+  },
+  "name": "Harry Reid International Airport",
+  "region": {
+    "code": "NV",
+    "name": "Nevada"
+  },
+  "state": {
+    "code": "NV",
+    "name": "Nevada"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0800",
+    "name": "America/Los_Angeles",
+    "offset_dst": "-07:00",
+    "offset_std": "-08:00",
+    "tzid": "America/Los_Angeles",
+    "zone": "PST",
+    "zone_dst": "PDT",
+    "zone_std": "PST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Los Angeles",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 125,
+    "meters": 38
+  },
+  "geometry": {
+    "coordinates": [-118.407997, 33.942501],
+    "type": "Point"
+  },
+  "iata": "LAX",
+  "icao": "KLAX",
+  "latitude": {
+    "decimal": 33.942501,
+    "degrees": "33° 56' 33.00\" N"
+  },
+  "location": "Los Angeles, California, United States",
+  "longitude": {
+    "decimal": -118.407997,
+    "degrees": "118° 24' 28.78\" W"
+  },
+  "name": "Los Angeles International Airport",
+  "region": {
+    "code": "CA",
+    "name": "California"
+  },
+  "state": {
+    "code": "CA",
+    "name": "California"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0800",
+    "name": "America/Los_Angeles",
+    "offset_dst": "-07:00",
+    "offset_std": "-08:00",
+    "tzid": "America/Los_Angeles",
+    "zone": "PST",
+    "zone_dst": "PDT",
+    "zone_std": "PST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Lubbock",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 3282,
+    "meters": 1000
+  },
+  "geometry": {
+    "coordinates": [-101.822998, 33.663601],
+    "type": "Point"
+  },
+  "iata": "LBB",
+  "icao": "KLBB",
+  "latitude": {
+    "decimal": 33.663601,
+    "degrees": "33° 39' 48.96\" N"
+  },
+  "location": "Lubbock, Texas, United States",
+  "longitude": {
+    "decimal": -101.822998,
+    "degrees": "101° 49' 22.79\" W"
+  },
+  "name": "Lubbock Preston Smith International Airport",
+  "region": {
+    "code": "TX",
+    "name": "Texas"
+  },
+  "state": {
+    "code": "TX",
+    "name": "Texas"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0600",
+    "name": "America/Chicago",
+    "offset_dst": "-05:00",
+    "offset_std": "-06:00",
+    "tzid": "America/Chicago",
+    "zone": "CST",
+    "zone_dst": "CDT",
+    "zone_std": "CST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Long Beach",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 60,
+    "meters": 18
+  },
+  "geometry": {
+    "coordinates": [-118.149891, 33.816523],
+    "type": "Point"
+  },
+  "iata": "LGB",
+  "icao": "KLGB",
+  "latitude": {
+    "decimal": 33.816523,
+    "degrees": "33° 48' 59.48\" N"
+  },
+  "location": "Long Beach, California, United States",
+  "longitude": {
+    "decimal": -118.149891,
+    "degrees": "118° 8' 59.60\" W"
+  },
+  "name": "Long Beach Airport (Daugherty Field)",
+  "region": {
+    "code": "CA",
+    "name": "California"
+  },
+  "state": {
+    "code": "CA",
+    "name": "California"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0800",
+    "name": "America/Los_Angeles",
+    "offset_dst": "-07:00",
+    "offset_std": "-08:00",
+    "tzid": "America/Los_Angeles",
+    "zone": "PST",
+    "zone_dst": "PDT",
+    "zone_std": "PST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Laredo",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 508,
+    "meters": 155
+  },
+  "geometry": {
+    "coordinates": [-99.461601, 27.5438],
+    "type": "Point"
+  },
+  "iata": "LRD",
+  "icao": "KLRD",
+  "latitude": {
+    "decimal": 27.5438,
+    "degrees": "27° 32' 37.68\" N"
+  },
+  "location": "Laredo, Texas, United States",
+  "longitude": {
+    "decimal": -99.461601,
+    "degrees": "99° 27' 41.76\" W"
+  },
+  "name": "Laredo International Airport",
+  "region": {
+    "code": "TX",
+    "name": "Texas"
+  },
+  "state": {
+    "code": "TX",
+    "name": "Texas"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0600",
+    "name": "America/Chicago",
+    "offset_dst": "-05:00",
+    "offset_std": "-06:00",
+    "tzid": "America/Chicago",
+    "zone": "CST",
+    "zone_dst": "CDT",
+    "zone_std": "CST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Las Vegas",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 1870,
+    "meters": 570
+  },
+  "geometry": {
+    "coordinates": [-115.033997, 36.236198],
+    "type": "Point"
+  },
+  "iata": "LSV",
+  "icao": "KLSV",
+  "latitude": {
+    "decimal": 36.236198,
+    "degrees": "36° 14' 10.31\" N"
+  },
+  "location": "Las Vegas, Nevada, United States",
+  "longitude": {
+    "decimal": -115.033997,
+    "degrees": "115° 2' 2.389\" W"
+  },
+  "name": "Nellis Air Force Base",
+  "region": {
+    "code": "NV",
+    "name": "Nevada"
+  },
+  "state": {
+    "code": "NV",
+    "name": "Nevada"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0800",
+    "name": "America/Los_Angeles",
+    "offset_dst": "-07:00",
+    "offset_std": "-08:00",
+    "tzid": "America/Los_Angeles",
+    "zone": "PST",
+    "zone_dst": "PDT",
+    "zone_std": "PST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Midland",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 2871,
+    "meters": 875
+  },
+  "geometry": {
+    "coordinates": [-102.202003, 31.942499],
+    "type": "Point"
+  },
+  "iata": "MAF",
+  "icao": "KMAF",
+  "latitude": {
+    "decimal": 31.942499,
+    "degrees": "31° 56' 32.99\" N"
+  },
+  "location": "Midland, Texas, United States",
+  "longitude": {
+    "decimal": -102.202003,
+    "degrees": "102° 12' 7.210\" W"
+  },
+  "name": "Midland International Air and Space Port",
+  "region": {
+    "code": "TX",
+    "name": "Texas"
+  },
+  "state": {
+    "code": "TX",
+    "name": "Texas"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0600",
+    "name": "America/Chicago",
+    "offset_dst": "-05:00",
+    "offset_std": "-06:00",
+    "tzid": "America/Chicago",
+    "zone": "CST",
+    "zone_dst": "CDT",
+    "zone_std": "CST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Kansas City",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 1026,
+    "meters": 313
+  },
+  "geometry": {
+    "coordinates": [-94.713898, 39.2976],
+    "type": "Point"
+  },
+  "iata": "MCI",
+  "icao": "KMCI",
+  "latitude": {
+    "decimal": 39.2976,
+    "degrees": "39° 17' 51.36\" N"
+  },
+  "location": "Kansas City, Missouri, United States",
+  "longitude": {
+    "decimal": -94.713898,
+    "degrees": "94° 42' 50.03\" W"
+  },
+  "name": "Kansas City International Airport",
+  "region": {
+    "code": "MO",
+    "name": "Missouri"
+  },
+  "state": {
+    "code": "MO",
+    "name": "Missouri"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0600",
+    "name": "America/Chicago",
+    "offset_dst": "-05:00",
+    "offset_std": "-06:00",
+    "tzid": "America/Chicago",
+    "zone": "CST",
+    "zone_dst": "CDT",
+    "zone_std": "CST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Orlando",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 96,
+    "meters": 29
+  },
+  "geometry": {
+    "coordinates": [-81.308998, 28.429399],
+    "type": "Point"
+  },
+  "iata": "MCO",
+  "icao": "KMCO",
+  "latitude": {
+    "decimal": 28.429399,
+    "degrees": "28° 25' 45.83\" N"
+  },
+  "location": "Orlando, Florida, United States",
+  "longitude": {
+    "decimal": -81.308998,
+    "degrees": "81° 18' 32.39\" W"
+  },
+  "name": "Orlando International Airport",
+  "region": {
+    "code": "FL",
+    "name": "Florida"
+  },
+  "state": {
+    "code": "FL",
+    "name": "Florida"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0500",
+    "name": "America/New_York",
+    "offset_dst": "-04:00",
+    "offset_std": "-05:00",
+    "tzid": "America/New_York",
+    "zone": "EST",
+    "zone_dst": "EDT",
+    "zone_std": "EST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Memphis",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 341,
+    "meters": 104
+  },
+  "geometry": {
+    "coordinates": [-89.9767, 35.0424],
+    "type": "Point"
+  },
+  "iata": "MEM",
+  "icao": "KMEM",
+  "latitude": {
+    "decimal": 35.0424,
+    "degrees": "35° 2' 32.64\" N"
+  },
+  "location": "Memphis, Tennessee, United States",
+  "longitude": {
+    "decimal": -89.9767,
+    "degrees": "89° 58' 36.11\" W"
+  },
+  "name": "Memphis International Airport",
+  "region": {
+    "code": "TN",
+    "name": "Tennessee"
+  },
+  "state": {
+    "code": "TN",
+    "name": "Tennessee"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0600",
+    "name": "America/Chicago",
+    "offset_dst": "-05:00",
+    "offset_std": "-06:00",
+    "tzid": "America/Chicago",
+    "zone": "CST",
+    "zone_dst": "CDT",
+    "zone_std": "CST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Miami",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 8,
+    "meters": 2
+  },
+  "geometry": {
+    "coordinates": [-80.290604, 25.7932],
+    "type": "Point"
+  },
+  "iata": "MIA",
+  "icao": "KMIA",
+  "latitude": {
+    "decimal": 25.7932,
+    "degrees": "25° 47' 35.51\" N"
+  },
+  "location": "Miami, Florida, United States",
+  "longitude": {
+    "decimal": -80.290604,
+    "degrees": "80° 17' 26.17\" W"
+  },
+  "name": "Miami International Airport",
+  "region": {
+    "code": "FL",
+    "name": "Florida"
+  },
+  "state": {
+    "code": "FL",
+    "name": "Florida"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0500",
+    "name": "America/New_York",
+    "offset_dst": "-04:00",
+    "offset_std": "-05:00",
+    "tzid": "America/New_York",
+    "zone": "EST",
+    "zone_dst": "EDT",
+    "zone_std": "EST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Milwaukee",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 723,
+    "meters": 220
+  },
+  "geometry": {
+    "coordinates": [-87.896599, 42.947201],
+    "type": "Point"
+  },
+  "iata": "MKE",
+  "icao": "KMKE",
+  "latitude": {
+    "decimal": 42.947201,
+    "degrees": "42° 56' 49.92\" N"
+  },
+  "location": "Milwaukee, Wisconsin, United States",
+  "longitude": {
+    "decimal": -87.896599,
+    "degrees": "87° 53' 47.75\" W"
+  },
+  "name": "General Mitchell International Airport",
+  "region": {
+    "code": "WI",
+    "name": "Wisconsin"
+  },
+  "state": {
+    "code": "WI",
+    "name": "Wisconsin"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0600",
+    "name": "America/Chicago",
+    "offset_dst": "-05:00",
+    "offset_std": "-06:00",
+    "tzid": "America/Chicago",
+    "zone": "CST",
+    "zone_dst": "CDT",
+    "zone_std": "CST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Minneapolis",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 841,
+    "meters": 256
+  },
+  "geometry": {
+    "coordinates": [-93.221802, 44.882],
+    "type": "Point"
+  },
+  "iata": "MSP",
+  "icao": "KMSP",
+  "latitude": {
+    "decimal": 44.882,
+    "degrees": "44° 52' 55.19\" N"
+  },
+  "location": "Minneapolis, Minnesota, United States",
+  "longitude": {
+    "decimal": -93.221802,
+    "degrees": "93° 13' 18.48\" W"
+  },
+  "name": "Minneapolis–Saint Paul International Airport / Wold–Chamberlain Field",
+  "region": {
+    "code": "MN",
+    "name": "Minnesota"
+  },
+  "state": {
+    "code": "MN",
+    "name": "Minnesota"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0600",
+    "name": "America/Chicago",
+    "offset_dst": "-05:00",
+    "offset_std": "-06:00",
+    "tzid": "America/Chicago",
+    "zone": "CST",
+    "zone_dst": "CDT",
+    "zone_std": "CST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Kenner",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 4,
+    "meters": 1
+  },
+  "geometry": {
+    "coordinates": [-90.258003, 29.993401],
+    "type": "Point"
+  },
+  "iata": "MSY",
+  "icao": "KMSY",
+  "latitude": {
+    "decimal": 29.993401,
+    "degrees": "29° 59' 36.24\" N"
+  },
+  "location": "Kenner, Louisiana, United States",
+  "longitude": {
+    "decimal": -90.258003,
+    "degrees": "90° 15' 28.81\" W"
+  },
+  "name": "Louis Armstrong New Orleans International Airport",
+  "region": {
+    "code": "LA",
+    "name": "Louisiana"
+  },
+  "state": {
+    "code": "LA",
+    "name": "Louisiana"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0600",
+    "name": "America/Chicago",
+    "offset_dst": "-05:00",
+    "offset_std": "-06:00",
+    "tzid": "America/Chicago",
+    "zone": "CST",
+    "zone_dst": "CDT",
+    "zone_std": "CST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Moses Lake",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 1189,
+    "meters": 362
+  },
+  "geometry": {
+    "coordinates": [-119.32, 47.207699],
+    "type": "Point"
+  },
+  "iata": "MWH",
+  "icao": "KMWH",
+  "latitude": {
+    "decimal": 47.207699,
+    "degrees": "47° 12' 27.71\" N"
+  },
+  "location": "Moses Lake, Washington, United States",
+  "longitude": {
+    "decimal": -119.32,
+    "degrees": "119° 19' 11.99\" W"
+  },
+  "name": "Grant County International Airport",
+  "region": {
+    "code": "WA",
+    "name": "Washington"
+  },
+  "state": {
+    "code": "WA",
+    "name": "Washington"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0800",
+    "name": "America/Los_Angeles",
+    "offset_dst": "-07:00",
+    "offset_std": "-08:00",
+    "tzid": "America/Los_Angeles",
+    "zone": "PST",
+    "zone_dst": "PDT",
+    "zone_std": "PST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Yuma",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 213,
+    "meters": 65
+  },
+  "geometry": {
+    "coordinates": [-114.606003, 32.656601],
+    "type": "Point"
+  },
+  "iata": "YUM",
+  "icao": "KNYL",
+  "latitude": {
+    "decimal": 32.656601,
+    "degrees": "32° 39' 23.76\" N"
+  },
+  "location": "Yuma, Arizona, United States",
+  "longitude": {
+    "decimal": -114.606003,
+    "degrees": "114° 36' 21.61\" W"
+  },
+  "name": "Yuma International Airport / Marine Corps Air Station Yuma",
+  "region": {
+    "code": "AZ",
+    "name": "Arizona"
+  },
+  "state": {
+    "code": "AZ",
+    "name": "Arizona"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "-0700",
+    "name": "America/Phoenix",
+    "offset_dst": "-07:00",
+    "offset_std": "-07:00",
+    "tzid": "America/Phoenix",
+    "zone": "MST",
+    "zone_dst": "MST",
+    "zone_std": "MST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Coronado",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 26,
+    "meters": 8
+  },
+  "geometry": {
+    "coordinates": [-117.214996, 32.6992],
+    "type": "Point"
+  },
+  "iata": "NZY",
+  "icao": "KNZY",
+  "latitude": {
+    "decimal": 32.6992,
+    "degrees": "32° 41' 57.11\" N"
+  },
+  "location": "Coronado, California, United States",
+  "longitude": {
+    "decimal": -117.214996,
+    "degrees": "117° 12' 53.98\" W"
+  },
+  "name": "North Island Naval Air Station-Halsey Field",
+  "region": {
+    "code": "CA",
+    "name": "California"
+  },
+  "state": {
+    "code": "CA",
+    "name": "California"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0800",
+    "name": "America/Los_Angeles",
+    "offset_dst": "-07:00",
+    "offset_std": "-08:00",
+    "tzid": "America/Los_Angeles",
+    "zone": "PST",
+    "zone_dst": "PDT",
+    "zone_std": "PST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Alameda",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 9,
+    "meters": 3
+  },
+  "geometry": {
+    "coordinates": [-122.221001, 37.721298],
+    "type": "Point"
+  },
+  "iata": "OAK",
+  "icao": "KOAK",
+  "latitude": {
+    "decimal": 37.721298,
+    "degrees": "37° 43' 16.67\" N"
+  },
+  "location": "Alameda, California, United States",
+  "longitude": {
+    "decimal": -122.221001,
+    "degrees": "122° 13' 15.60\" W"
+  },
+  "name": "Metropolitan Oakland International Airport",
+  "region": {
+    "code": "CA",
+    "name": "California"
+  },
+  "state": {
+    "code": "CA",
+    "name": "California"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0800",
+    "name": "America/Los_Angeles",
+    "offset_dst": "-07:00",
+    "offset_std": "-08:00",
+    "tzid": "America/Los_Angeles",
+    "zone": "PST",
+    "zone_dst": "PDT",
+    "zone_std": "PST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Oklahoma City",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 1295,
+    "meters": 395
+  },
+  "geometry": {
+    "coordinates": [-97.6007, 35.393101],
+    "type": "Point"
+  },
+  "iata": "OKC",
+  "icao": "KOKC",
+  "latitude": {
+    "decimal": 35.393101,
+    "degrees": "35° 23' 35.16\" N"
+  },
+  "location": "Oklahoma City, Oklahoma, United States",
+  "longitude": {
+    "decimal": -97.6007,
+    "degrees": "97° 36' 2.520\" W"
+  },
+  "name": "Will Rogers World Airport",
+  "region": {
+    "code": "OK",
+    "name": "Oklahoma"
+  },
+  "state": {
+    "code": "OK",
+    "name": "Oklahoma"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0600",
+    "name": "America/Chicago",
+    "offset_dst": "-05:00",
+    "offset_std": "-06:00",
+    "tzid": "America/Chicago",
+    "zone": "CST",
+    "zone_dst": "CDT",
+    "zone_std": "CST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Omaha",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 984,
+    "meters": 300
+  },
+  "geometry": {
+    "coordinates": [-95.894096, 41.3032],
+    "type": "Point"
+  },
+  "iata": "OMA",
+  "icao": "KOMA",
+  "latitude": {
+    "decimal": 41.3032,
+    "degrees": "41° 18' 11.51\" N"
+  },
+  "location": "Omaha, Nebraska, United States",
+  "longitude": {
+    "decimal": -95.894096,
+    "degrees": "95° 53' 38.74\" W"
+  },
+  "name": "Eppley Airfield",
+  "region": {
+    "code": "NE",
+    "name": "Nebraska"
+  },
+  "state": {
+    "code": "NE",
+    "name": "Nebraska"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0600",
+    "name": "America/Chicago",
+    "offset_dst": "-05:00",
+    "offset_std": "-06:00",
+    "tzid": "America/Chicago",
+    "zone": "CST",
+    "zone_dst": "CDT",
+    "zone_std": "CST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Ontario",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 944,
+    "meters": 288
+  },
+  "geometry": {
+    "coordinates": [-117.600998, 34.056],
+    "type": "Point"
+  },
+  "iata": "ONT",
+  "icao": "KONT",
+  "latitude": {
+    "decimal": 34.056,
+    "degrees": "34° 3' 21.59\" N"
+  },
+  "location": "Ontario, California, United States",
+  "longitude": {
+    "decimal": -117.600998,
+    "degrees": "117° 36' 3.592\" W"
+  },
+  "name": "Ontario International Airport",
+  "region": {
+    "code": "CA",
+    "name": "California"
+  },
+  "state": {
+    "code": "CA",
+    "name": "California"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0800",
+    "name": "America/Los_Angeles",
+    "offset_dst": "-07:00",
+    "offset_std": "-08:00",
+    "tzid": "America/Los_Angeles",
+    "zone": "PST",
+    "zone_dst": "PDT",
+    "zone_std": "PST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Norfolk",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 26,
+    "meters": 8
+  },
+  "geometry": {
+    "coordinates": [-76.201202, 36.8946],
+    "type": "Point"
+  },
+  "iata": "ORF",
+  "icao": "KORF",
+  "latitude": {
+    "decimal": 36.8946,
+    "degrees": "36° 53' 40.55\" N"
+  },
+  "location": "Norfolk, Virginia, United States",
+  "longitude": {
+    "decimal": -76.201202,
+    "degrees": "76° 12' 4.327\" W"
+  },
+  "name": "Norfolk International Airport",
+  "region": {
+    "code": "VA",
+    "name": "Virginia"
+  },
+  "state": {
+    "code": "VA",
+    "name": "Virginia"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0500",
+    "name": "America/New_York",
+    "offset_dst": "-04:00",
+    "offset_std": "-05:00",
+    "tzid": "America/New_York",
+    "zone": "EST",
+    "zone_dst": "EDT",
+    "zone_std": "EST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Everett",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 606,
+    "meters": 185
+  },
+  "geometry": {
+    "coordinates": [-122.281998, 47.9063],
+    "type": "Point"
+  },
+  "iata": "PAE",
+  "icao": "KPAE",
+  "latitude": {
+    "decimal": 47.9063,
+    "degrees": "47° 54' 22.68\" N"
+  },
+  "location": "Everett, Washington, United States",
+  "longitude": {
+    "decimal": -122.281998,
+    "degrees": "122° 16' 55.19\" W"
+  },
+  "name": "Snohomish County (Paine Field) Airport",
+  "region": {
+    "code": "WA",
+    "name": "Washington"
+  },
+  "state": {
+    "code": "WA",
+    "name": "Washington"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0800",
+    "name": "America/Los_Angeles",
+    "offset_dst": "-07:00",
+    "offset_std": "-08:00",
+    "tzid": "America/Los_Angeles",
+    "zone": "PST",
+    "zone_dst": "PDT",
+    "zone_std": "PST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Portland",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 31,
+    "meters": 9
+  },
+  "geometry": {
+    "coordinates": [-122.598, 45.588699],
+    "type": "Point"
+  },
+  "iata": "PDX",
+  "icao": "KPDX",
+  "latitude": {
+    "decimal": 45.588699,
+    "degrees": "45° 35' 19.31\" N"
+  },
+  "location": "Portland, Oregon, United States",
+  "longitude": {
+    "decimal": -122.598,
+    "degrees": "122° 35' 52.79\" W"
+  },
+  "name": "Portland International Airport",
+  "region": {
+    "code": "OR",
+    "name": "Oregon"
+  },
+  "state": {
+    "code": "OR",
+    "name": "Oregon"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0800",
+    "name": "America/Los_Angeles",
+    "offset_dst": "-07:00",
+    "offset_std": "-08:00",
+    "tzid": "America/Los_Angeles",
+    "zone": "PST",
+    "zone_dst": "PDT",
+    "zone_std": "PST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Phoenix",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 1135,
+    "meters": 346
+  },
+  "geometry": {
+    "coordinates": [-112.005905, 33.435302],
+    "type": "Point"
+  },
+  "iata": "PHX",
+  "icao": "KPHX",
+  "latitude": {
+    "decimal": 33.435302,
+    "degrees": "33° 26' 7.087\" N"
+  },
+  "location": "Phoenix, Arizona, United States",
+  "longitude": {
+    "decimal": -112.005905,
+    "degrees": "112° 0' 21.25\" W"
+  },
+  "name": "Phoenix Sky Harbor International Airport",
+  "region": {
+    "code": "AZ",
+    "name": "Arizona"
+  },
+  "state": {
+    "code": "AZ",
+    "name": "Arizona"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "-0700",
+    "name": "America/Phoenix",
+    "offset_dst": "-07:00",
+    "offset_std": "-07:00",
+    "tzid": "America/Phoenix",
+    "zone": "MST",
+    "zone_dst": "MST",
+    "zone_std": "MST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Clearwater",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 11,
+    "meters": 3
+  },
+  "geometry": {
+    "coordinates": [-82.687401, 27.9102],
+    "type": "Point"
+  },
+  "iata": "PIE",
+  "icao": "KPIE",
+  "latitude": {
+    "decimal": 27.9102,
+    "degrees": "27° 54' 36.71\" N"
+  },
+  "location": "Clearwater, Florida, United States",
+  "longitude": {
+    "decimal": -82.687401,
+    "degrees": "82° 41' 14.64\" W"
+  },
+  "name": "St. Petersburg Clearwater International Airport",
+  "region": {
+    "code": "FL",
+    "name": "Florida"
+  },
+  "state": {
+    "code": "FL",
+    "name": "Florida"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0500",
+    "name": "America/New_York",
+    "offset_dst": "-04:00",
+    "offset_std": "-05:00",
+    "tzid": "America/New_York",
+    "zone": "EST",
+    "zone_dst": "EDT",
+    "zone_std": "EST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Moon Township",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 1203,
+    "meters": 367
+  },
+  "geometry": {
+    "coordinates": [-80.232903, 40.491501],
+    "type": "Point"
+  },
+  "iata": "PIT",
+  "icao": "KPIT",
+  "latitude": {
+    "decimal": 40.491501,
+    "degrees": "40° 29' 29.40\" N"
+  },
+  "location": "Moon Township, Pennsylvania, United States",
+  "longitude": {
+    "decimal": -80.232903,
+    "degrees": "80° 13' 58.45\" W"
+  },
+  "name": "Pittsburgh International Airport",
+  "region": {
+    "code": "PA",
+    "name": "Pennsylvania"
+  },
+  "state": {
+    "code": "PA",
+    "name": "Pennsylvania"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0500",
+    "name": "America/New_York",
+    "offset_dst": "-04:00",
+    "offset_std": "-05:00",
+    "tzid": "America/New_York",
+    "zone": "EST",
+    "zone_dst": "EDT",
+    "zone_std": "EST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Palmdale",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 2543,
+    "meters": 775
+  },
+  "geometry": {
+    "coordinates": [-118.084999, 34.629398],
+    "type": "Point"
+  },
+  "iata": "PMD",
+  "icao": "KPMD",
+  "latitude": {
+    "decimal": 34.629398,
+    "degrees": "34° 37' 45.83\" N"
+  },
+  "location": "Palmdale, California, United States",
+  "longitude": {
+    "decimal": -118.084999,
+    "degrees": "118° 5' 5.996\" W"
+  },
+  "name": "Palmdale Regional Airport / USAF Plant 42 Airport",
+  "region": {
+    "code": "CA",
+    "name": "California"
+  },
+  "state": {
+    "code": "CA",
+    "name": "California"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0800",
+    "name": "America/Los_Angeles",
+    "offset_dst": "-07:00",
+    "offset_std": "-08:00",
+    "tzid": "America/Los_Angeles",
+    "zone": "PST",
+    "zone_dst": "PDT",
+    "zone_std": "PST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Portsmouth",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 100,
+    "meters": 30
+  },
+  "geometry": {
+    "coordinates": [-70.823303, 43.0779],
+    "type": "Point"
+  },
+  "iata": "PSM",
+  "icao": "KPSM",
+  "latitude": {
+    "decimal": 43.0779,
+    "degrees": "43° 4' 40.43\" N"
+  },
+  "location": "Portsmouth, New Hampshire, United States",
+  "longitude": {
+    "decimal": -70.823303,
+    "degrees": "70° 49' 23.89\" W"
+  },
+  "name": "Portsmouth International at Pease Airport",
+  "region": {
+    "code": "NH",
+    "name": "New Hampshire"
+  },
+  "state": {
+    "code": "NH",
+    "name": "New Hampshire"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0500",
+    "name": "America/New_York",
+    "offset_dst": "-04:00",
+    "offset_std": "-05:00",
+    "tzid": "America/New_York",
+    "zone": "EST",
+    "zone_dst": "EDT",
+    "zone_std": "EST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Palm Springs",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 477,
+    "meters": 145
+  },
+  "geometry": {
+    "coordinates": [-116.507004, 33.8297],
+    "type": "Point"
+  },
+  "iata": "PSP",
+  "icao": "KPSP",
+  "latitude": {
+    "decimal": 33.8297,
+    "degrees": "33° 49' 46.92\" N"
+  },
+  "location": "Palm Springs, California, United States",
+  "longitude": {
+    "decimal": -116.507004,
+    "degrees": "116° 30' 25.21\" W"
+  },
+  "name": "Palm Springs International Airport",
+  "region": {
+    "code": "CA",
+    "name": "California"
+  },
+  "state": {
+    "code": "CA",
+    "name": "California"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0800",
+    "name": "America/Los_Angeles",
+    "offset_dst": "-07:00",
+    "offset_std": "-08:00",
+    "tzid": "America/Los_Angeles",
+    "zone": "PST",
+    "zone_dst": "PDT",
+    "zone_std": "PST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Raleigh",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 397,
+    "meters": 121
+  },
+  "geometry": {
+    "coordinates": [-78.78, 35.9],
+    "type": "Point"
+  },
+  "iata": "RDU",
+  "icao": "KRDU",
+  "latitude": {
+    "decimal": 35.9,
+    "degrees": "35° 53' 59.99\" N"
+  },
+  "location": "Raleigh, North Carolina, United States",
+  "longitude": {
+    "decimal": -78.78,
+    "degrees": "78° 46' 48.00\" W"
+  },
+  "name": "Raleigh-Durham International Airport",
+  "region": {
+    "code": "NC",
+    "name": "North Carolina"
+  },
+  "sectional": "CHARLOTTE",
+  "state": {
+    "code": "NC",
+    "name": "North Carolina"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0500",
+    "name": "America/New_York",
+    "offset_dst": "-04:00",
+    "offset_std": "-05:00",
+    "tzid": "America/New_York",
+    "zone": "EST",
+    "zone_dst": "EDT",
+    "zone_std": "EST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Richmond",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 167,
+    "meters": 51
+  },
+  "geometry": {
+    "coordinates": [-77.319702, 37.505199],
+    "type": "Point"
+  },
+  "iata": "RIC",
+  "icao": "KRIC",
+  "latitude": {
+    "decimal": 37.505199,
+    "degrees": "37° 30' 18.71\" N"
+  },
+  "location": "Richmond, Virginia, United States",
+  "longitude": {
+    "decimal": -77.319702,
+    "degrees": "77° 19' 10.92\" W"
+  },
+  "name": "Richmond International Airport",
+  "region": {
+    "code": "VA",
+    "name": "Virginia"
+  },
+  "state": {
+    "code": "VA",
+    "name": "Virginia"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0500",
+    "name": "America/New_York",
+    "offset_dst": "-04:00",
+    "offset_std": "-05:00",
+    "tzid": "America/New_York",
+    "zone": "EST",
+    "zone_dst": "EDT",
+    "zone_std": "EST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Reno",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 4415,
+    "meters": 1346
+  },
+  "geometry": {
+    "coordinates": [-119.767998, 39.4991],
+    "type": "Point"
+  },
+  "iata": "RNO",
+  "icao": "KRNO",
+  "latitude": {
+    "decimal": 39.4991,
+    "degrees": "39° 29' 56.75\" N"
+  },
+  "location": "Reno, Nevada, United States",
+  "longitude": {
+    "decimal": -119.767998,
+    "degrees": "119° 46' 4.792\" W"
+  },
+  "name": "Reno Tahoe International Airport",
+  "region": {
+    "code": "NV",
+    "name": "Nevada"
+  },
+  "state": {
+    "code": "NV",
+    "name": "Nevada"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0800",
+    "name": "America/Los_Angeles",
+    "offset_dst": "-07:00",
+    "offset_std": "-08:00",
+    "tzid": "America/Los_Angeles",
+    "zone": "PST",
+    "zone_dst": "PDT",
+    "zone_std": "PST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Fort Myers",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 30,
+    "meters": 9
+  },
+  "geometry": {
+    "coordinates": [-81.755203, 26.5362],
+    "type": "Point"
+  },
+  "iata": "RSW",
+  "icao": "KRSW",
+  "latitude": {
+    "decimal": 26.5362,
+    "degrees": "26° 32' 10.32\" N"
+  },
+  "location": "Fort Myers, Florida, United States",
+  "longitude": {
+    "decimal": -81.755203,
+    "degrees": "81° 45' 18.73\" W"
+  },
+  "name": "Southwest Florida International Airport",
+  "region": {
+    "code": "FL",
+    "name": "Florida"
+  },
+  "state": {
+    "code": "FL",
+    "name": "Florida"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0500",
+    "name": "America/New_York",
+    "offset_dst": "-04:00",
+    "offset_std": "-05:00",
+    "tzid": "America/New_York",
+    "zone": "EST",
+    "zone_dst": "EDT",
+    "zone_std": "EST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "San Diego",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 17,
+    "meters": 5
+  },
+  "geometry": {
+    "coordinates": [-117.190002, 32.733601],
+    "type": "Point"
+  },
+  "iata": "SAN",
+  "icao": "KSAN",
+  "latitude": {
+    "decimal": 32.733601,
+    "degrees": "32° 44' 0.963\" N"
+  },
+  "location": "San Diego, California, United States",
+  "longitude": {
+    "decimal": -117.190002,
+    "degrees": "117° 11' 24.00\" W"
+  },
+  "name": "San Diego International Airport",
+  "region": {
+    "code": "CA",
+    "name": "California"
+  },
+  "state": {
+    "code": "CA",
+    "name": "California"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0800",
+    "name": "America/Los_Angeles",
+    "offset_dst": "-07:00",
+    "offset_std": "-08:00",
+    "tzid": "America/Los_Angeles",
+    "zone": "PST",
+    "zone_dst": "PDT",
+    "zone_std": "PST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "San Antonio",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 809,
+    "meters": 247
+  },
+  "geometry": {
+    "coordinates": [-98.469803, 29.533701],
+    "type": "Point"
+  },
+  "iata": "SAT",
+  "icao": "KSAT",
+  "latitude": {
+    "decimal": 29.533701,
+    "degrees": "29° 32' 1.323\" N"
+  },
+  "location": "San Antonio, Texas, United States",
+  "longitude": {
+    "decimal": -98.469803,
+    "degrees": "98° 28' 11.29\" W"
+  },
+  "name": "San Antonio International Airport",
+  "region": {
+    "code": "TX",
+    "name": "Texas"
+  },
+  "state": {
+    "code": "TX",
+    "name": "Texas"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0600",
+    "name": "America/Chicago",
+    "offset_dst": "-05:00",
+    "offset_std": "-06:00",
+    "tzid": "America/Chicago",
+    "zone": "CST",
+    "zone_dst": "CDT",
+    "zone_std": "CST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Savannah",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 50,
+    "meters": 15
+  },
+  "geometry": {
+    "coordinates": [-81.202103, 32.127602],
+    "type": "Point"
+  },
+  "iata": "SAV",
+  "icao": "KSAV",
+  "latitude": {
+    "decimal": 32.127602,
+    "degrees": "32° 7' 39.36\" N"
+  },
+  "location": "Savannah, Georgia, United States",
+  "longitude": {
+    "decimal": -81.202103,
+    "degrees": "81° 12' 7.570\" W"
+  },
+  "name": "Savannah Hilton Head International Airport",
+  "region": {
+    "code": "GA",
+    "name": "Georgia"
+  },
+  "state": {
+    "code": "GA",
+    "name": "Georgia"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0500",
+    "name": "America/New_York",
+    "offset_dst": "-04:00",
+    "offset_std": "-05:00",
+    "tzid": "America/New_York",
+    "zone": "EST",
+    "zone_dst": "EDT",
+    "zone_std": "EST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Louisville",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 501,
+    "meters": 153
+  },
+  "geometry": {
+    "coordinates": [-85.736, 38.1744],
+    "type": "Point"
+  },
+  "iata": "SDF",
+  "icao": "KSDF",
+  "latitude": {
+    "decimal": 38.1744,
+    "degrees": "38° 10' 27.83\" N"
+  },
+  "location": "Louisville, Kentucky, United States",
+  "longitude": {
+    "decimal": -85.736,
+    "degrees": "85° 44' 9.600\" W"
+  },
+  "name": "Louisville Muhammad Ali International Airport",
+  "region": {
+    "code": "KY",
+    "name": "Kentucky"
+  },
+  "state": {
+    "code": "KY",
+    "name": "Kentucky"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0500",
+    "name": "America/Kentucky/Louisville",
+    "offset_dst": "-04:00",
+    "offset_std": "-05:00",
+    "tzid": "America/Kentucky/Louisville",
+    "zone": "EST",
+    "zone_dst": "EDT",
+    "zone_std": "EST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "SeaTac",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 433,
+    "meters": 132
+  },
+  "geometry": {
+    "coordinates": [-122.311134, 47.449162],
+    "type": "Point"
+  },
+  "iata": "SEA",
+  "icao": "KSEA",
+  "latitude": {
+    "decimal": 47.449162,
+    "degrees": "47° 26' 56.98\" N"
+  },
+  "location": "SeaTac, Washington, United States",
+  "longitude": {
+    "decimal": -122.311134,
+    "degrees": "122° 18' 40.08\" W"
+  },
+  "name": "Seattle–Tacoma International Airport",
+  "region": {
+    "code": "WA",
+    "name": "Washington"
+  },
+  "state": {
+    "code": "WA",
+    "name": "Washington"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0800",
+    "name": "America/Los_Angeles",
+    "offset_dst": "-07:00",
+    "offset_std": "-08:00",
+    "tzid": "America/Los_Angeles",
+    "zone": "PST",
+    "zone_dst": "PDT",
+    "zone_std": "PST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Sanford",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 55,
+    "meters": 17
+  },
+  "geometry": {
+    "coordinates": [-81.237503, 28.777599],
+    "type": "Point"
+  },
+  "iata": "SFB",
+  "icao": "KSFB",
+  "latitude": {
+    "decimal": 28.777599,
+    "degrees": "28° 46' 39.35\" N"
+  },
+  "location": "Sanford, Florida, United States",
+  "longitude": {
+    "decimal": -81.237503,
+    "degrees": "81° 14' 15.01\" W"
+  },
+  "name": "Orlando Sanford International Airport",
+  "region": {
+    "code": "FL",
+    "name": "Florida"
+  },
+  "state": {
+    "code": "FL",
+    "name": "Florida"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0500",
+    "name": "America/New_York",
+    "offset_dst": "-04:00",
+    "offset_std": "-05:00",
+    "tzid": "America/New_York",
+    "zone": "EST",
+    "zone_dst": "EDT",
+    "zone_std": "EST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "South San Francisco",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 13,
+    "meters": 4
+  },
+  "geometry": {
+    "coordinates": [-122.375, 37.618999],
+    "type": "Point"
+  },
+  "iata": "SFO",
+  "icao": "KSFO",
+  "latitude": {
+    "decimal": 37.618999,
+    "degrees": "37° 37' 8.396\" N"
+  },
+  "location": "South San Francisco, California, United States",
+  "longitude": {
+    "decimal": -122.375,
+    "degrees": "122° 22' 30.0\" W"
+  },
+  "name": "San Francisco International Airport",
+  "region": {
+    "code": "CA",
+    "name": "California"
+  },
+  "state": {
+    "code": "CA",
+    "name": "California"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0800",
+    "name": "America/Los_Angeles",
+    "offset_dst": "-07:00",
+    "offset_std": "-08:00",
+    "tzid": "America/Los_Angeles",
+    "zone": "PST",
+    "zone_dst": "PDT",
+    "zone_std": "PST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "San Jose",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 62,
+    "meters": 19
+  },
+  "geometry": {
+    "coordinates": [-121.929188, 37.362452],
+    "type": "Point"
+  },
+  "iata": "SJC",
+  "icao": "KSJC",
+  "latitude": {
+    "decimal": 37.362452,
+    "degrees": "37° 21' 44.82\" N"
+  },
+  "location": "San Jose, California, United States",
+  "longitude": {
+    "decimal": -121.929188,
+    "degrees": "121° 55' 45.07\" W"
+  },
+  "name": "Norman Y. Mineta San Jose International Airport",
+  "region": {
+    "code": "CA",
+    "name": "California"
+  },
+  "state": {
+    "code": "CA",
+    "name": "California"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0800",
+    "name": "America/Los_Angeles",
+    "offset_dst": "-07:00",
+    "offset_std": "-08:00",
+    "tzid": "America/Los_Angeles",
+    "zone": "PST",
+    "zone_dst": "PDT",
+    "zone_std": "PST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Salt Lake City",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 4227,
+    "meters": 1288
+  },
+  "geometry": {
+    "coordinates": [-111.979746, 40.785749],
+    "type": "Point"
+  },
+  "iata": "SLC",
+  "icao": "KSLC",
+  "latitude": {
+    "decimal": 40.785749,
+    "degrees": "40° 47' 8.696\" N"
+  },
+  "location": "Salt Lake City, Utah, United States",
+  "longitude": {
+    "decimal": -111.979746,
+    "degrees": "111° 58' 47.08\" W"
+  },
+  "name": "Salt Lake City International Airport",
+  "region": {
+    "code": "UT",
+    "name": "Utah"
+  },
+  "state": {
+    "code": "UT",
+    "name": "Utah"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0700",
+    "name": "America/Denver",
+    "offset_dst": "-06:00",
+    "offset_std": "-07:00",
+    "tzid": "America/Denver",
+    "zone": "MST",
+    "zone_dst": "MDT",
+    "zone_std": "MST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Sacramento",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 27,
+    "meters": 8
+  },
+  "geometry": {
+    "coordinates": [-121.591003, 38.6954],
+    "type": "Point"
+  },
+  "iata": "SMF",
+  "icao": "KSMF",
+  "latitude": {
+    "decimal": 38.6954,
+    "degrees": "38° 41' 43.43\" N"
+  },
+  "location": "Sacramento, California, United States",
+  "longitude": {
+    "decimal": -121.591003,
+    "degrees": "121° 35' 27.61\" W"
+  },
+  "name": "Sacramento International Airport",
+  "region": {
+    "code": "CA",
+    "name": "California"
+  },
+  "state": {
+    "code": "CA",
+    "name": "California"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0800",
+    "name": "America/Los_Angeles",
+    "offset_dst": "-07:00",
+    "offset_std": "-08:00",
+    "tzid": "America/Los_Angeles",
+    "zone": "PST",
+    "zone_dst": "PDT",
+    "zone_std": "PST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Wichita Falls",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 1019,
+    "meters": 311
+  },
+  "geometry": {
+    "coordinates": [-98.491898, 33.9888],
+    "type": "Point"
+  },
+  "iata": "SPS",
+  "icao": "KSPS",
+  "latitude": {
+    "decimal": 33.9888,
+    "degrees": "33° 59' 19.67\" N"
+  },
+  "location": "Wichita Falls, Texas, United States",
+  "longitude": {
+    "decimal": -98.491898,
+    "degrees": "98° 29' 30.83\" W"
+  },
+  "name": "Sheppard Air Force Base / Wichita Falls Municipal Airport",
+  "region": {
+    "code": "TX",
+    "name": "Texas"
+  },
+  "state": {
+    "code": "TX",
+    "name": "Texas"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0600",
+    "name": "America/Chicago",
+    "offset_dst": "-05:00",
+    "offset_std": "-06:00",
+    "tzid": "America/Chicago",
+    "zone": "CST",
+    "zone_dst": "CDT",
+    "zone_std": "CST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "St. Ann",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 618,
+    "meters": 188
+  },
+  "geometry": {
+    "coordinates": [-90.370003, 38.748697],
+    "type": "Point"
+  },
+  "iata": "STL",
+  "icao": "KSTL",
+  "latitude": {
+    "decimal": 38.748697,
+    "degrees": "38° 44' 55.30\" N"
+  },
+  "location": "St. Ann, Missouri, United States",
+  "longitude": {
+    "decimal": -90.370003,
+    "degrees": "90° 22' 12.01\" W"
+  },
+  "name": "St Louis Lambert International Airport",
+  "region": {
+    "code": "MO",
+    "name": "Missouri"
+  },
+  "state": {
+    "code": "MO",
+    "name": "Missouri"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0600",
+    "name": "America/Chicago",
+    "offset_dst": "-05:00",
+    "offset_std": "-06:00",
+    "tzid": "America/Chicago",
+    "zone": "CST",
+    "zone_dst": "CDT",
+    "zone_std": "CST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Fairfield",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 62,
+    "meters": 19
+  },
+  "geometry": {
+    "coordinates": [-121.927002, 38.262699],
+    "type": "Point"
+  },
+  "iata": "SUU",
+  "icao": "KSUU",
+  "latitude": {
+    "decimal": 38.262699,
+    "degrees": "38° 15' 45.71\" N"
+  },
+  "location": "Fairfield, California, United States",
+  "longitude": {
+    "decimal": -121.927002,
+    "degrees": "121° 55' 37.20\" W"
+  },
+  "name": "Travis Air Force Base",
+  "region": {
+    "code": "CA",
+    "name": "California"
+  },
+  "state": {
+    "code": "CA",
+    "name": "California"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0800",
+    "name": "America/Los_Angeles",
+    "offset_dst": "-07:00",
+    "offset_std": "-08:00",
+    "tzid": "America/Los_Angeles",
+    "zone": "PST",
+    "zone_dst": "PDT",
+    "zone_std": "PST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "New Windsor",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 491,
+    "meters": 150
+  },
+  "geometry": {
+    "coordinates": [-74.104797, 41.504101],
+    "type": "Point"
+  },
+  "iata": "SWF",
+  "icao": "KSWF",
+  "latitude": {
+    "decimal": 41.504101,
+    "degrees": "41° 30' 14.76\" N"
+  },
+  "location": "New Windsor, New York, United States",
+  "longitude": {
+    "decimal": -74.104797,
+    "degrees": "74° 6' 17.26\" W"
+  },
+  "name": "New York Stewart International Airport",
+  "region": {
+    "code": "NY",
+    "name": "New York"
+  },
+  "state": {
+    "code": "NY",
+    "name": "New York"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0500",
+    "name": "America/New_York",
+    "offset_dst": "-04:00",
+    "offset_std": "-05:00",
+    "tzid": "America/New_York",
+    "zone": "EST",
+    "zone_dst": "EDT",
+    "zone_std": "EST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Syracuse",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 421,
+    "meters": 128
+  },
+  "geometry": {
+    "coordinates": [-76.1063, 43.111198],
+    "type": "Point"
+  },
+  "iata": "SYR",
+  "icao": "KSYR",
+  "latitude": {
+    "decimal": 43.111198,
+    "degrees": "43° 6' 40.31\" N"
+  },
+  "location": "Syracuse, New York, United States",
+  "longitude": {
+    "decimal": -76.1063,
+    "degrees": "76° 6' 22.68\" W"
+  },
+  "name": "Syracuse Hancock International Airport",
+  "region": {
+    "code": "NY",
+    "name": "New York"
+  },
+  "state": {
+    "code": "NY",
+    "name": "New York"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0500",
+    "name": "America/New_York",
+    "offset_dst": "-04:00",
+    "offset_std": "-05:00",
+    "tzid": "America/New_York",
+    "zone": "EST",
+    "zone_dst": "EDT",
+    "zone_std": "EST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Tampa",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 26,
+    "meters": 8
+  },
+  "geometry": {
+    "coordinates": [-82.533203, 27.9755],
+    "type": "Point"
+  },
+  "iata": "TPA",
+  "icao": "KTPA",
+  "latitude": {
+    "decimal": 27.9755,
+    "degrees": "27° 58' 31.80\" N"
+  },
+  "location": "Tampa, Florida, United States",
+  "longitude": {
+    "decimal": -82.533203,
+    "degrees": "82° 31' 59.53\" W"
+  },
+  "name": "Tampa International Airport",
+  "region": {
+    "code": "FL",
+    "name": "Florida"
+  },
+  "state": {
+    "code": "FL",
+    "name": "Florida"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0500",
+    "name": "America/New_York",
+    "offset_dst": "-04:00",
+    "offset_std": "-05:00",
+    "tzid": "America/New_York",
+    "zone": "EST",
+    "zone_dst": "EDT",
+    "zone_std": "EST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Tucson",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 2643,
+    "meters": 806
+  },
+  "geometry": {
+    "coordinates": [-110.938053, 32.115004],
+    "type": "Point"
+  },
+  "iata": "TUS",
+  "icao": "KTUS",
+  "latitude": {
+    "decimal": 32.115004,
+    "degrees": "32° 6' 54.01\" N"
+  },
+  "location": "Tucson, Arizona, United States",
+  "longitude": {
+    "decimal": -110.938053,
+    "degrees": "110° 56' 16.99\" W"
+  },
+  "name": "Tucson International Airport / Morris Air National Guard Base",
+  "region": {
+    "code": "AZ",
+    "name": "Arizona"
+  },
+  "state": {
+    "code": "AZ",
+    "name": "Arizona"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "-0700",
+    "name": "America/Phoenix",
+    "offset_dst": "-07:00",
+    "offset_std": "-07:00",
+    "tzid": "America/Phoenix",
+    "zone": "MST",
+    "zone_dst": "MST",
+    "zone_std": "MST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Lompoc",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 369,
+    "meters": 112
+  },
+  "geometry": {
+    "coordinates": [-120.584, 34.737301],
+    "type": "Point"
+  },
+  "iata": "VBG",
+  "icao": "KVBG",
+  "latitude": {
+    "decimal": 34.737301,
+    "degrees": "34° 44' 14.28\" N"
+  },
+  "location": "Lompoc, California, United States",
+  "longitude": {
+    "decimal": -120.584,
+    "degrees": "120° 35' 2.400\" W"
+  },
+  "name": "Vandenberg Space Force Base",
+  "region": {
+    "code": "CA",
+    "name": "California"
+  },
+  "state": {
+    "code": "CA",
+    "name": "California"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0800",
+    "name": "America/Los_Angeles",
+    "offset_dst": "-07:00",
+    "offset_std": "-08:00",
+    "tzid": "America/Los_Angeles",
+    "zone": "PST",
+    "zone_dst": "PDT",
+    "zone_std": "PST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "el Prat de Llobregat",
+  "country": {
+    "code": "ES",
+    "name": "Spain"
+  },
+  "elevation": {
+    "feet": 12,
+    "meters": 4
+  },
+  "geometry": {
+    "coordinates": [2.07846, 41.2971],
+    "type": "Point"
+  },
+  "iata": "BCN",
+  "icao": "LEBL",
+  "latitude": {
+    "decimal": 41.2971,
+    "degrees": "41° 17' 49.56\" N"
+  },
+  "location": "el Prat de Llobregat, Catalonia, Spain",
+  "longitude": {
+    "decimal": 2.07846,
+    "degrees": "2° 4' 42.45\" E"
+  },
+  "name": "Josep Tarradellas Barcelona-El Prat Airport",
+  "region": {
+    "name": "Catalonia"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "+0100",
+    "name": "Europe/Madrid",
+    "offset_dst": "+02:00",
+    "offset_std": "+01:00",
+    "tzid": "Europe/Madrid",
+    "zone": "CET",
+    "zone_dst": "CEST",
+    "zone_std": "CET"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Madrid",
+  "country": {
+    "code": "ES",
+    "name": "Spain"
+  },
+  "elevation": {
+    "feet": 1998,
+    "meters": 609
+  },
+  "geometry": {
+    "coordinates": [-3.56264, 40.471926],
+    "type": "Point"
+  },
+  "iata": "MAD",
+  "icao": "LEMD",
+  "latitude": {
+    "decimal": 40.471926,
+    "degrees": "40° 28' 18.93\" N"
+  },
+  "location": "Madrid, Community of Madrid, Spain",
+  "longitude": {
+    "decimal": -3.56264,
+    "degrees": "3° 33' 45.50\" W"
+  },
+  "name": "Adolfo Suárez Madrid–Barajas Airport",
+  "region": {
+    "name": "Community of Madrid"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "+0100",
+    "name": "Europe/Madrid",
+    "offset_dst": "+02:00",
+    "offset_std": "+01:00",
+    "tzid": "Europe/Madrid",
+    "zone": "CET",
+    "zone_dst": "CEST",
+    "zone_std": "CET"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Vila do Porto",
+  "country": {
+    "code": "PT",
+    "name": "Portugal"
+  },
+  "elevation": {
+    "feet": 308,
+    "meters": 94
+  },
+  "geometry": {
+    "coordinates": [-25.170601, 36.971401],
+    "type": "Point"
+  },
+  "iata": "SMA",
+  "icao": "LPAZ",
+  "latitude": {
+    "decimal": 36.971401,
+    "degrees": "36° 58' 17.04\" N"
+  },
+  "location": "Vila do Porto, Portugal",
+  "longitude": {
+    "decimal": -25.170601,
+    "degrees": "25° 10' 14.16\" W"
+  },
+  "name": "Santa Maria Airport",
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0100",
+    "name": "Atlantic/Azores",
+    "offset_dst": "+00:00",
+    "offset_std": "-01:00",
+    "tzid": "Atlantic/Azores",
+    "zone": "-01"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Praia da Vitória",
+  "country": {
+    "code": "PT",
+    "name": "Portugal"
+  },
+  "elevation": {
+    "feet": 180,
+    "meters": 55
+  },
+  "geometry": {
+    "coordinates": [-27.090799, 38.761799],
+    "type": "Point"
+  },
+  "iata": "TER",
+  "icao": "LPLA",
+  "latitude": {
+    "decimal": 38.761799,
+    "degrees": "38° 45' 42.47\" N"
+  },
+  "location": "Praia da Vitória, Portugal",
+  "longitude": {
+    "decimal": -27.090799,
+    "degrees": "27° 5' 26.87\" W"
+  },
+  "name": "Lajes Airport",
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0100",
+    "name": "Atlantic/Azores",
+    "offset_dst": "+00:00",
+    "offset_std": "-01:00",
+    "tzid": "Atlantic/Azores",
+    "zone": "-01"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Lisbon",
+  "country": {
+    "code": "PT",
+    "name": "Portugal"
+  },
+  "elevation": {
+    "feet": 374,
+    "meters": 114
+  },
+  "geometry": {
+    "coordinates": [-9.13592, 38.7813],
+    "type": "Point"
+  },
+  "iata": "LIS",
+  "icao": "LPPT",
+  "latitude": {
+    "decimal": 38.7813,
+    "degrees": "38° 46' 52.68\" N"
+  },
+  "location": "Lisbon, Portugal",
+  "longitude": {
+    "decimal": -9.13592,
+    "degrees": "9° 8' 9.312\" W"
+  },
+  "name": "Humberto Delgado Airport (Lisbon Portela Airport)",
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "+0000",
+    "name": "Europe/Lisbon",
+    "offset_dst": "+01:00",
+    "offset_std": "+00:00",
+    "tzid": "Europe/Lisbon",
+    "zone": "WET",
+    "zone_dst": "WEST",
+    "zone_std": "WET"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Avarua",
+  "country": {
+    "code": "CK",
+    "name": "Cook Islands"
+  },
+  "elevation": {
+    "feet": 19,
+    "meters": 6
+  },
+  "geometry": {
+    "coordinates": [-159.806, -21.2027],
+    "type": "Point"
+  },
+  "iata": "RAR",
+  "icao": "NCRG",
+  "latitude": {
+    "decimal": -21.2027,
+    "degrees": "21° 12' 9.720\" S"
+  },
+  "location": "Avarua, Rarotonga, Cook Islands",
+  "longitude": {
+    "decimal": -159.806,
+    "degrees": "159° 48' 21.60\" W"
+  },
+  "name": "Rarotonga International Airport",
+  "region": {
+    "name": "Rarotonga"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "-1000",
+    "name": "Pacific/Rarotonga",
+    "offset_dst": "-10:00",
+    "offset_std": "-10:00",
+    "tzid": "Pacific/Rarotonga",
+    "zone": "-10"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Nadi",
+  "country": {
+    "code": "FJ",
+    "name": "Fiji"
+  },
+  "elevation": {
+    "feet": 59,
+    "meters": 18
+  },
+  "geometry": {
+    "coordinates": [177.442993, -17.7554],
+    "type": "Point"
+  },
+  "iata": "NAN",
+  "icao": "NFFN",
+  "latitude": {
+    "decimal": -17.7554,
+    "degrees": "17° 45' 19.44\" S"
+  },
+  "location": "Nadi, Western, Fiji",
+  "longitude": {
+    "decimal": 177.442993,
+    "degrees": "177° 26' 34.77\" E"
+  },
+  "name": "Nadi International Airport",
+  "region": {
+    "name": "Western"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "+1200",
+    "name": "Pacific/Fiji",
+    "offset_dst": "+13:00",
+    "offset_std": "+12:00",
+    "tzid": "Pacific/Fiji",
+    "zone": "+12"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Fua'amotu",
+  "country": {
+    "code": "TO",
+    "name": "Tonga"
+  },
+  "elevation": {
+    "feet": 126,
+    "meters": 38
+  },
+  "geometry": {
+    "coordinates": [-175.149994, -21.241199],
+    "type": "Point"
+  },
+  "iata": "TBU",
+  "icao": "NFTF",
+  "latitude": {
+    "decimal": -21.241199,
+    "degrees": "21° 14' 28.31\" S"
+  },
+  "location": "Fua'amotu, Tongatapu, Tonga",
+  "longitude": {
+    "decimal": -175.149994,
+    "degrees": "175° 8' 59.97\" W"
+  },
+  "name": "Fua'amotu International Airport",
+  "region": {
+    "name": "Tongatapu"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+1300",
+    "name": "Pacific/Tongatapu",
+    "offset_dst": "+13:00",
+    "offset_std": "+13:00",
+    "tzid": "Pacific/Tongatapu",
+    "zone": "+13"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Faleatiu",
+  "country": {
+    "code": "WS",
+    "name": "Samoa"
+  },
+  "elevation": {
+    "feet": 58,
+    "meters": 18
+  },
+  "geometry": {
+    "coordinates": [-172.007996, -13.83],
+    "type": "Point"
+  },
+  "iata": "APW",
+  "icao": "NSFA",
+  "latitude": {
+    "decimal": -13.83,
+    "degrees": "13° 49' 48.00\" S"
+  },
+  "location": "Faleatiu, Aʻana, Samoa",
+  "longitude": {
+    "decimal": -172.007996,
+    "degrees": "172° 0' 28.78\" W"
+  },
+  "name": "Faleolo International Airport",
+  "region": {
+    "name": "Aʻana"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+1300",
+    "name": "Pacific/Apia",
+    "offset_dst": "+13:00",
+    "offset_std": "+13:00",
+    "tzid": "Pacific/Apia",
+    "zone": "+13"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Tafuna",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 32,
+    "meters": 10
+  },
+  "geometry": {
+    "coordinates": [-170.710007, -14.331],
+    "type": "Point"
+  },
+  "iata": "PPG",
+  "icao": "NSTU",
+  "latitude": {
+    "decimal": -14.331,
+    "degrees": "14° 19' 51.59\" S"
+  },
+  "location": "Tafuna, American Samoa, United States",
+  "longitude": {
+    "decimal": -170.710007,
+    "degrees": "170° 42' 36.02\" W"
+  },
+  "name": "Pago Pago International Airport",
+  "region": {
+    "code": "AS",
+    "name": "American Samoa"
+  },
+  "state": {
+    "code": "AS",
+    "name": "American Samoa"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "-1100",
+    "name": "Pacific/Pago_Pago",
+    "offset_dst": "-11:00",
+    "offset_std": "-11:00",
+    "tzid": "Pacific/Pago_Pago",
+    "zone": "SST",
+    "zone_dst": "SST",
+    "zone_std": "SST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Faaa",
+  "country": {
+    "code": "FR",
+    "name": "France"
+  },
+  "elevation": {
+    "feet": 5,
+    "meters": 2
+  },
+  "geometry": {
+    "coordinates": [-149.606995, -17.553699],
+    "type": "Point"
+  },
+  "iata": "PPT",
+  "icao": "NTAA",
+  "latitude": {
+    "decimal": -17.553699,
+    "degrees": "17° 33' 13.31\" S"
+  },
+  "location": "Faaa, French Polynesia, France",
+  "longitude": {
+    "decimal": -149.606995,
+    "degrees": "149° 36' 25.18\" W"
+  },
+  "name": "Faa'a International Airport",
+  "region": {
+    "name": "French Polynesia"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "-1000",
+    "name": "Pacific/Tahiti",
+    "offset_dst": "-10:00",
+    "offset_std": "-10:00",
+    "tzid": "Pacific/Tahiti",
+    "zone": "-10"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Port Vila",
+  "country": {
+    "code": "VU",
+    "name": "Vanuatu"
+  },
+  "elevation": {
+    "feet": 70,
+    "meters": 21
+  },
+  "geometry": {
+    "coordinates": [168.320007, -17.699301],
+    "type": "Point"
+  },
+  "iata": "VLI",
+  "icao": "NVVV",
+  "latitude": {
+    "decimal": -17.699301,
+    "degrees": "17° 41' 57.48\" S"
+  },
+  "location": "Port Vila, Shefa Province, Vanuatu",
+  "longitude": {
+    "decimal": 168.320007,
+    "degrees": "168° 19' 12.02\" E"
+  },
+  "name": "Bauerfield International Airport",
+  "region": {
+    "name": "Shefa Province"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+1100",
+    "name": "Pacific/Efate",
+    "offset_dst": "+11:00",
+    "offset_std": "+11:00",
+    "tzid": "Pacific/Efate",
+    "zone": "+11"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Païta",
+  "country": {
+    "code": "FR",
+    "name": "France"
+  },
+  "elevation": {
+    "feet": 52,
+    "meters": 16
+  },
+  "geometry": {
+    "coordinates": [166.212997, -22.014601],
+    "type": "Point"
+  },
+  "iata": "NOU",
+  "icao": "NWWW",
+  "latitude": {
+    "decimal": -22.014601,
+    "degrees": "22° 0' 52.56\" S"
+  },
+  "location": "Païta, France",
+  "longitude": {
+    "decimal": 166.212997,
+    "degrees": "166° 12' 46.78\" E"
+  },
+  "name": "La Tontouta International Airport",
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+1100",
+    "name": "Pacific/Noumea",
+    "offset_dst": "+11:00",
+    "offset_std": "+11:00",
+    "tzid": "Pacific/Noumea",
+    "zone": "+11"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Auckland Airport",
+  "country": {
+    "code": "NZ",
+    "name": "New Zealand"
+  },
+  "elevation": {
+    "feet": 23,
+    "meters": 7
+  },
+  "geometry": {
+    "coordinates": [174.786331, -37.01199],
+    "type": "Point"
+  },
+  "iata": "AKL",
+  "icao": "NZAA",
+  "latitude": {
+    "decimal": -37.01199,
+    "degrees": "37° 0' 43.16\" S"
+  },
+  "location": "Auckland Airport, Auckland Region, New Zealand",
+  "longitude": {
+    "decimal": 174.786331,
+    "degrees": "174° 47' 10.79\" E"
+  },
+  "name": "Auckland International Airport",
+  "region": {
+    "name": "Auckland Region"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "+1300",
+    "name": "Pacific/Auckland",
+    "offset_dst": "+13:00",
+    "offset_std": "+12:00",
+    "tzid": "Pacific/Auckland",
+    "zone": "NZDT",
+    "zone_dst": "NZDT",
+    "zone_std": "NZST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Christchurch",
+  "country": {
+    "code": "NZ",
+    "name": "New Zealand"
+  },
+  "elevation": {
+    "feet": 123,
+    "meters": 37
+  },
+  "geometry": {
+    "coordinates": [172.531998, -43.489399],
+    "type": "Point"
+  },
+  "iata": "CHC",
+  "icao": "NZCH",
+  "latitude": {
+    "decimal": -43.489399,
+    "degrees": "43° 29' 21.83\" S"
+  },
+  "location": "Christchurch, Canterbury, New Zealand",
+  "longitude": {
+    "decimal": 172.531998,
+    "degrees": "172° 31' 55.19\" E"
+  },
+  "name": "Christchurch International Airport",
+  "region": {
+    "code": "CAN",
+    "name": "Canterbury"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "+1300",
+    "name": "Pacific/Auckland",
+    "offset_dst": "+13:00",
+    "offset_std": "+12:00",
+    "tzid": "Pacific/Auckland",
+    "zone": "NZDT",
+    "zone_dst": "NZDT",
+    "zone_std": "NZST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Hamilton",
+  "country": {
+    "code": "NZ",
+    "name": "New Zealand"
+  },
+  "elevation": {
+    "feet": 172,
+    "meters": 52
+  },
+  "geometry": {
+    "coordinates": [175.332001, -37.866699],
+    "type": "Point"
+  },
+  "iata": "HLZ",
+  "icao": "NZHN",
+  "latitude": {
+    "decimal": -37.866699,
+    "degrees": "37° 52' 0.116\" S"
+  },
+  "location": "Hamilton, Waikato, New Zealand",
+  "longitude": {
+    "decimal": 175.332001,
+    "degrees": "175° 19' 55.20\" E"
+  },
+  "name": "Hamilton International Airport",
+  "region": {
+    "code": "WKO",
+    "name": "Waikato"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "+1300",
+    "name": "Pacific/Auckland",
+    "offset_dst": "+13:00",
+    "offset_std": "+12:00",
+    "tzid": "Pacific/Auckland",
+    "zone": "NZDT",
+    "zone_dst": "NZDT",
+    "zone_std": "NZST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Cold Bay",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 96,
+    "meters": 29
+  },
+  "geometry": {
+    "coordinates": [-162.725006, 55.2061],
+    "type": "Point"
+  },
+  "iata": "CDB",
+  "icao": "PACD",
+  "latitude": {
+    "decimal": 55.2061,
+    "degrees": "55° 12' 21.95\" N"
+  },
+  "location": "Cold Bay, Alaska, United States",
+  "longitude": {
+    "decimal": -162.725006,
+    "degrees": "162° 43' 30.02\" W"
+  },
+  "name": "Cold Bay Airport",
+  "region": {
+    "code": "AK",
+    "name": "Alaska"
+  },
+  "state": {
+    "code": "AK",
+    "name": "Alaska"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0900",
+    "name": "America/Nome",
+    "offset_dst": "-08:00",
+    "offset_std": "-09:00",
+    "tzid": "America/Nome",
+    "zone": "AKST",
+    "zone_dst": "AKDT",
+    "zone_std": "AKST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Anchorage",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 212,
+    "meters": 65
+  },
+  "geometry": {
+    "coordinates": [-149.807097, 61.251709],
+    "type": "Point"
+  },
+  "iata": "EDF",
+  "icao": "PAED",
+  "latitude": {
+    "decimal": 61.251709,
+    "degrees": "61° 15' 6.152\" N"
+  },
+  "location": "Anchorage, Alaska, United States",
+  "longitude": {
+    "decimal": -149.807097,
+    "degrees": "149° 48' 25.54\" W"
+  },
+  "name": "Elmendorf Air Force Base",
+  "region": {
+    "code": "AK",
+    "name": "Alaska"
+  },
+  "state": {
+    "code": "AK",
+    "name": "Alaska"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0900",
+    "name": "America/Anchorage",
+    "offset_dst": "-08:00",
+    "offset_std": "-09:00",
+    "tzid": "America/Anchorage",
+    "zone": "AKST",
+    "zone_dst": "AKDT",
+    "zone_std": "AKST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Eielson AFB",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 547,
+    "meters": 167
+  },
+  "geometry": {
+    "coordinates": [-147.102005, 64.665703],
+    "type": "Point"
+  },
+  "iata": "EIL",
+  "icao": "PAEI",
+  "latitude": {
+    "decimal": 64.665703,
+    "degrees": "64° 39' 56.53\" N"
+  },
+  "location": "Eielson AFB, Alaska, United States",
+  "longitude": {
+    "decimal": -147.102005,
+    "degrees": "147° 6' 7.217\" W"
+  },
+  "name": "Eielson Air Force Base",
+  "region": {
+    "code": "AK",
+    "name": "Alaska"
+  },
+  "state": {
+    "code": "AK",
+    "name": "Alaska"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0900",
+    "name": "America/Anchorage",
+    "offset_dst": "-08:00",
+    "offset_std": "-09:00",
+    "tzid": "America/Anchorage",
+    "zone": "AKST",
+    "zone_dst": "AKDT",
+    "zone_std": "AKST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Kenai",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 99,
+    "meters": 30
+  },
+  "geometry": {
+    "coordinates": [-151.244995, 60.573101],
+    "type": "Point"
+  },
+  "iata": "ENA",
+  "icao": "PAEN",
+  "latitude": {
+    "decimal": 60.573101,
+    "degrees": "60° 34' 23.16\" N"
+  },
+  "location": "Kenai, Alaska, United States",
+  "longitude": {
+    "decimal": -151.244995,
+    "degrees": "151° 14' 41.98\" W"
+  },
+  "name": "Kenai Municipal Airport",
+  "region": {
+    "code": "AK",
+    "name": "Alaska"
+  },
+  "state": {
+    "code": "AK",
+    "name": "Alaska"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0900",
+    "name": "America/Anchorage",
+    "offset_dst": "-08:00",
+    "offset_std": "-09:00",
+    "tzid": "America/Anchorage",
+    "zone": "AKST",
+    "zone_dst": "AKDT",
+    "zone_std": "AKST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Fairbanks",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 439,
+    "meters": 134
+  },
+  "geometry": {
+    "coordinates": [-147.856003, 64.815102],
+    "type": "Point"
+  },
+  "iata": "FAI",
+  "icao": "PAFA",
+  "latitude": {
+    "decimal": 64.815102,
+    "degrees": "64° 48' 54.36\" N"
+  },
+  "location": "Fairbanks, Alaska, United States",
+  "longitude": {
+    "decimal": -147.856003,
+    "degrees": "147° 51' 21.61\" W"
+  },
+  "name": "Fairbanks International Airport",
+  "region": {
+    "code": "AK",
+    "name": "Alaska"
+  },
+  "state": {
+    "code": "AK",
+    "name": "Alaska"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0900",
+    "name": "America/Anchorage",
+    "offset_dst": "-08:00",
+    "offset_std": "-09:00",
+    "tzid": "America/Anchorage",
+    "zone": "AKST",
+    "zone_dst": "AKDT",
+    "zone_std": "AKST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "King Salmon",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 73,
+    "meters": 22
+  },
+  "geometry": {
+    "coordinates": [-156.651965, 58.677845],
+    "type": "Point"
+  },
+  "iata": "AKN",
+  "icao": "PAKN",
+  "latitude": {
+    "decimal": 58.677845,
+    "degrees": "58° 40' 40.24\" N"
+  },
+  "location": "King Salmon, Alaska, United States",
+  "longitude": {
+    "decimal": -156.651965,
+    "degrees": "156° 39' 7.073\" W"
+  },
+  "name": "King Salmon Airport",
+  "region": {
+    "code": "AK",
+    "name": "Alaska"
+  },
+  "state": {
+    "code": "AK",
+    "name": "Alaska"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0900",
+    "name": "America/Anchorage",
+    "offset_dst": "-08:00",
+    "offset_std": "-09:00",
+    "tzid": "America/Anchorage",
+    "zone": "AKST",
+    "zone_dst": "AKDT",
+    "zone_std": "AKST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Anchorage",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 152,
+    "meters": 46
+  },
+  "geometry": {
+    "coordinates": [-149.996002, 61.1744],
+    "type": "Point"
+  },
+  "iata": "ANC",
+  "icao": "PANC",
+  "latitude": {
+    "decimal": 61.1744,
+    "degrees": "61° 10' 27.83\" N"
+  },
+  "location": "Anchorage, Alaska, United States",
+  "longitude": {
+    "decimal": -149.996002,
+    "degrees": "149° 59' 45.60\" W"
+  },
+  "name": "Ted Stevens Anchorage International Airport",
+  "region": {
+    "code": "AK",
+    "name": "Alaska"
+  },
+  "state": {
+    "code": "AK",
+    "name": "Alaska"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-0900",
+    "name": "America/Anchorage",
+    "offset_dst": "-08:00",
+    "offset_std": "-09:00",
+    "tzid": "America/Anchorage",
+    "zone": "AKST",
+    "zone_dst": "AKDT",
+    "zone_std": "AKST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Shemya",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 95,
+    "meters": 29
+  },
+  "geometry": {
+    "coordinates": [174.113998, 52.712299],
+    "type": "Point"
+  },
+  "iata": "SYA",
+  "icao": "PASY",
+  "latitude": {
+    "decimal": 52.712299,
+    "degrees": "52° 42' 44.27\" N"
+  },
+  "location": "Shemya, Alaska, United States",
+  "longitude": {
+    "decimal": 174.113998,
+    "degrees": "174° 6' 50.39\" E"
+  },
+  "name": "Eareckson Air Station",
+  "region": {
+    "code": "AK",
+    "name": "Alaska"
+  },
+  "state": {
+    "code": "AK",
+    "name": "Alaska"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "-1000",
+    "name": "America/Anchorage",
+    "offset_dst": "-08:00",
+    "offset_std": "-09:00",
+    "tzid": "America/Adak",
+    "zone": "HST",
+    "zone_dst": "AKDT",
+    "zone_std": "AKST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Chalan Piao",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 215,
+    "meters": 66
+  },
+  "geometry": {
+    "coordinates": [145.729004, 15.119],
+    "type": "Point"
+  },
+  "iata": "SPN",
+  "icao": "PGSN",
+  "latitude": {
+    "decimal": 15.119,
+    "degrees": "15° 7' 8.399\" N"
+  },
+  "location": "Chalan Piao, Northern Mariana Islands, United States",
+  "longitude": {
+    "decimal": 145.729004,
+    "degrees": "145° 43' 44.41\" E"
+  },
+  "name": "Saipan International Airport",
+  "region": {
+    "code": "MP",
+    "name": "Northern Mariana Islands"
+  },
+  "state": {
+    "code": "MP",
+    "name": "Northern Mariana Islands"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+1000",
+    "name": "Pacific/Saipan",
+    "offset_dst": "+10:00",
+    "offset_std": "+10:00",
+    "tzid": "Pacific/Saipan",
+    "zone": "ChST",
+    "zone_dst": "ChST",
+    "zone_std": "ChST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Yigo",
+  "country": {
+    "code": "GU",
+    "name": "Guam"
+  },
+  "elevation": {
+    "feet": 627,
+    "meters": 191
+  },
+  "geometry": {
+    "coordinates": [144.929998, 13.584],
+    "type": "Point"
+  },
+  "iata": "UAM",
+  "icao": "PGUA",
+  "latitude": {
+    "decimal": 13.584,
+    "degrees": "13° 35' 2.399\" N"
+  },
+  "location": "Yigo, Guam",
+  "longitude": {
+    "decimal": 144.929998,
+    "degrees": "144° 55' 47.99\" E"
+  },
+  "name": "Andersen Air Force Base",
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+1000",
+    "name": "Pacific/Guam",
+    "offset_dst": "+10:00",
+    "offset_std": "+10:00",
+    "tzid": "Pacific/Guam",
+    "zone": "ChST",
+    "zone_dst": "ChST",
+    "zone_std": "ChST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Tamuning",
+  "country": {
+    "code": "GU",
+    "name": "Guam"
+  },
+  "elevation": {
+    "feet": 298,
+    "meters": 91
+  },
+  "geometry": {
+    "coordinates": [144.796005, 13.4834],
+    "type": "Point"
+  },
+  "iata": "GUM",
+  "icao": "PGUM",
+  "latitude": {
+    "decimal": 13.4834,
+    "degrees": "13° 29' 0.239\" N"
+  },
+  "location": "Tamuning, Guam",
+  "longitude": {
+    "decimal": 144.796005,
+    "degrees": "144° 47' 45.61\" E"
+  },
+  "name": "Antonio B. Won Pat International Airport",
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+1000",
+    "name": "Pacific/Guam",
+    "offset_dst": "+10:00",
+    "offset_std": "+10:00",
+    "tzid": "Pacific/Guam",
+    "zone": "ChST",
+    "zone_dst": "ChST",
+    "zone_std": "ChST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Kapolei",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 30,
+    "meters": 9
+  },
+  "geometry": {
+    "coordinates": [-158.070009, 21.3074],
+    "type": "Point"
+  },
+  "iata": "JRF",
+  "icao": "PHJR",
+  "latitude": {
+    "decimal": 21.3074,
+    "degrees": "21° 18' 26.64\" N"
+  },
+  "location": "Kapolei, Hawaii, United States",
+  "longitude": {
+    "decimal": -158.070009,
+    "degrees": "158° 4' 12.03\" W"
+  },
+  "name": "Kalaeloa Airport",
+  "region": {
+    "code": "HI",
+    "name": "Hawaii"
+  },
+  "state": {
+    "code": "HI",
+    "name": "Hawaii"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "-1000",
+    "name": "Pacific/Honolulu",
+    "offset_dst": "-10:00",
+    "offset_std": "-10:00",
+    "tzid": "Pacific/Honolulu",
+    "zone": "HST",
+    "zone_dst": "HST",
+    "zone_std": "HST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Kailua-Kona",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 47,
+    "meters": 14
+  },
+  "geometry": {
+    "coordinates": [-156.045603, 19.738783],
+    "type": "Point"
+  },
+  "iata": "KOA",
+  "icao": "PHKO",
+  "latitude": {
+    "decimal": 19.738783,
+    "degrees": "19° 44' 19.61\" N"
+  },
+  "location": "Kailua-Kona, Hawaii, United States",
+  "longitude": {
+    "decimal": -156.045603,
+    "degrees": "156° 2' 44.17\" W"
+  },
+  "name": "Ellison Onizuka Kona International Airport at Keahole",
+  "region": {
+    "code": "HI",
+    "name": "Hawaii"
+  },
+  "state": {
+    "code": "HI",
+    "name": "Hawaii"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "-1000",
+    "name": "Pacific/Honolulu",
+    "offset_dst": "-10:00",
+    "offset_std": "-10:00",
+    "tzid": "Pacific/Honolulu",
+    "zone": "HST",
+    "zone_dst": "HST",
+    "zone_std": "HST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Lihue",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 153,
+    "meters": 47
+  },
+  "geometry": {
+    "coordinates": [-159.339005, 21.976],
+    "type": "Point"
+  },
+  "iata": "LIH",
+  "icao": "PHLI",
+  "latitude": {
+    "decimal": 21.976,
+    "degrees": "21° 58' 33.59\" N"
+  },
+  "location": "Lihue, Hawaii, United States",
+  "longitude": {
+    "decimal": -159.339005,
+    "degrees": "159° 20' 20.41\" W"
+  },
+  "name": "Lihue Airport",
+  "region": {
+    "code": "HI",
+    "name": "Hawaii"
+  },
+  "state": {
+    "code": "HI",
+    "name": "Hawaii"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "-1000",
+    "name": "Pacific/Honolulu",
+    "offset_dst": "-10:00",
+    "offset_std": "-10:00",
+    "tzid": "Pacific/Honolulu",
+    "zone": "HST",
+    "zone_dst": "HST",
+    "zone_std": "HST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Kailua",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 24,
+    "meters": 7
+  },
+  "geometry": {
+    "coordinates": [-157.768005, 21.4505],
+    "type": "Point"
+  },
+  "iata": "NGF",
+  "icao": "PHNG",
+  "latitude": {
+    "decimal": 21.4505,
+    "degrees": "21° 27' 1.800\" N"
+  },
+  "location": "Kailua, Hawaii, United States",
+  "longitude": {
+    "decimal": -157.768005,
+    "degrees": "157° 46' 4.817\" W"
+  },
+  "name": "Kaneohe Bay MCAS (Marion E. Carl Field) Airport",
+  "region": {
+    "code": "HI",
+    "name": "Hawaii"
+  },
+  "state": {
+    "code": "HI",
+    "name": "Hawaii"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "-1000",
+    "name": "Pacific/Honolulu",
+    "offset_dst": "-10:00",
+    "offset_std": "-10:00",
+    "tzid": "Pacific/Honolulu",
+    "zone": "HST",
+    "zone_dst": "HST",
+    "zone_std": "HST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Honolulu",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 13,
+    "meters": 4
+  },
+  "geometry": {
+    "coordinates": [-157.924228, 21.32062],
+    "type": "Point"
+  },
+  "iata": "HNL",
+  "icao": "PHNL",
+  "latitude": {
+    "decimal": 21.32062,
+    "degrees": "21° 19' 14.23\" N"
+  },
+  "location": "Honolulu, Hawaii, United States",
+  "longitude": {
+    "decimal": -157.924228,
+    "degrees": "157° 55' 27.22\" W"
+  },
+  "name": "Daniel K Inouye International Airport",
+  "region": {
+    "code": "HI",
+    "name": "Hawaii"
+  },
+  "state": {
+    "code": "HI",
+    "name": "Hawaii"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "-1000",
+    "name": "Pacific/Honolulu",
+    "offset_dst": "-10:00",
+    "offset_std": "-10:00",
+    "tzid": "Pacific/Honolulu",
+    "zone": "HST",
+    "zone_dst": "HST",
+    "zone_std": "HST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Kahului",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 54,
+    "meters": 16
+  },
+  "geometry": {
+    "coordinates": [-156.431212, 20.898543],
+    "type": "Point"
+  },
+  "iata": "OGG",
+  "icao": "PHOG",
+  "latitude": {
+    "decimal": 20.898543,
+    "degrees": "20° 53' 54.75\" N"
+  },
+  "location": "Kahului, Hawaii, United States",
+  "longitude": {
+    "decimal": -156.431212,
+    "degrees": "156° 25' 52.36\" W"
+  },
+  "name": "Kahului Airport",
+  "region": {
+    "code": "HI",
+    "name": "Hawaii"
+  },
+  "state": {
+    "code": "HI",
+    "name": "Hawaii"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "-1000",
+    "name": "Pacific/Honolulu",
+    "offset_dst": "-10:00",
+    "offset_std": "-10:00",
+    "tzid": "Pacific/Honolulu",
+    "zone": "HST",
+    "zone_dst": "HST",
+    "zone_std": "HST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Hilo CDP",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 38,
+    "meters": 12
+  },
+  "geometry": {
+    "coordinates": [-155.048004, 19.721399],
+    "type": "Point"
+  },
+  "iata": "ITO",
+  "icao": "PHTO",
+  "latitude": {
+    "decimal": 19.721399,
+    "degrees": "19° 43' 17.03\" N"
+  },
+  "location": "Hilo CDP, Hawaii, United States",
+  "longitude": {
+    "decimal": -155.048004,
+    "degrees": "155° 2' 52.81\" W"
+  },
+  "name": "Hilo International Airport",
+  "region": {
+    "code": "HI",
+    "name": "Hawaii"
+  },
+  "state": {
+    "code": "HI",
+    "name": "Hawaii"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "-1000",
+    "name": "Pacific/Honolulu",
+    "offset_dst": "-10:00",
+    "offset_std": "-10:00",
+    "tzid": "Pacific/Honolulu",
+    "zone": "HST",
+    "zone_dst": "HST",
+    "zone_std": "HST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Majuro",
+  "country": {
+    "code": "MH",
+    "name": "Marshall Islands"
+  },
+  "elevation": {
+    "feet": 6,
+    "meters": 2
+  },
+  "geometry": {
+    "coordinates": [171.272003, 7.06476],
+    "type": "Point"
+  },
+  "iata": "MAJ",
+  "icao": "PKMJ",
+  "latitude": {
+    "decimal": 7.06476,
+    "degrees": "7° 3' 53.13\" N"
+  },
+  "location": "Majuro, Marshall Islands",
+  "longitude": {
+    "decimal": 171.272003,
+    "degrees": "171° 16' 19.21\" E"
+  },
+  "name": "Marshall Islands International Airport",
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+1200",
+    "name": "Pacific/Majuro",
+    "offset_dst": "+12:00",
+    "offset_std": "+12:00",
+    "tzid": "Pacific/Majuro",
+    "zone": "+12"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Kwajalein",
+  "country": {
+    "code": "MH",
+    "name": "Marshall Islands"
+  },
+  "elevation": {
+    "feet": 9,
+    "meters": 3
+  },
+  "geometry": {
+    "coordinates": [167.731995, 8.72012],
+    "type": "Point"
+  },
+  "iata": "KWA",
+  "icao": "PKWA",
+  "latitude": {
+    "decimal": 8.72012,
+    "degrees": "8° 43' 12.43\" N"
+  },
+  "location": "Kwajalein, Marshall Islands",
+  "longitude": {
+    "decimal": 167.731995,
+    "degrees": "167° 43' 55.18\" E"
+  },
+  "name": "Bucholz Army Air Field",
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+1200",
+    "name": "Pacific/Kwajalein",
+    "offset_dst": "+12:00",
+    "offset_std": "+12:00",
+    "tzid": "Pacific/Kwajalein",
+    "zone": "+12"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Sand Island",
+  "country": {
+    "code": "US",
+    "name": "United States"
+  },
+  "elevation": {
+    "feet": 13,
+    "meters": 4
+  },
+  "geometry": {
+    "coordinates": [-177.380997, 28.2017],
+    "type": "Point"
+  },
+  "iata": "MDY",
+  "icao": "PMDY",
+  "latitude": {
+    "decimal": 28.2017,
+    "degrees": "28° 12' 6.119\" N"
+  },
+  "location": "Sand Island, United States",
+  "longitude": {
+    "decimal": -177.380997,
+    "degrees": "177° 22' 51.58\" W"
+  },
+  "name": "Henderson Field",
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "-1100",
+    "name": "Pacific/Midway",
+    "offset_dst": "-11:00",
+    "offset_std": "-11:00",
+    "tzid": "Pacific/Midway",
+    "zone": "SST",
+    "zone_dst": "SST",
+    "zone_std": "SST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Wake Island",
+  "country": {
+    "code": "UM",
+    "name": "United States Minor Outlying Islands"
+  },
+  "elevation": {
+    "feet": 14,
+    "meters": 4
+  },
+  "geometry": {
+    "coordinates": [166.636637, 19.282437],
+    "type": "Point"
+  },
+  "iata": "AWK",
+  "icao": "PWAK",
+  "latitude": {
+    "decimal": 19.282437,
+    "degrees": "19° 16' 56.77\" N"
+  },
+  "location": "Wake Island, United States Minor Outlying Islands",
+  "longitude": {
+    "decimal": 166.636637,
+    "degrees": "166° 38' 11.89\" E"
+  },
+  "name": "Wake Island Airfield",
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+1200",
+    "name": "Pacific/Wake",
+    "offset_dst": "+12:00",
+    "offset_std": "+12:00",
+    "tzid": "Pacific/Wake",
+    "zone": "+12"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Kaohsiung",
+  "country": {
+    "code": "TW",
+    "name": "Taiwan"
+  },
+  "elevation": {
+    "feet": 31,
+    "meters": 9
+  },
+  "geometry": {
+    "coordinates": [120.349998, 22.577101],
+    "type": "Point"
+  },
+  "iata": "KHH",
+  "icao": "RCKH",
+  "latitude": {
+    "decimal": 22.577101,
+    "degrees": "22° 34' 37.56\" N"
+  },
+  "location": "Kaohsiung, Taiwan",
+  "longitude": {
+    "decimal": 120.349998,
+    "degrees": "120° 20' 59.99\" E"
+  },
+  "name": "Kaohsiung International Airport",
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+0800",
+    "name": "Asia/Taipei",
+    "offset_dst": "+08:00",
+    "offset_std": "+08:00",
+    "tzid": "Asia/Taipei",
+    "zone": "CST",
+    "zone_dst": "CST",
+    "zone_std": "CST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Taoyuan City",
+  "country": {
+    "code": "TW",
+    "name": "Taiwan"
+  },
+  "elevation": {
+    "feet": 106,
+    "meters": 32
+  },
+  "geometry": {
+    "coordinates": [121.233002, 25.0777],
+    "type": "Point"
+  },
+  "iata": "TPE",
+  "icao": "RCTP",
+  "latitude": {
+    "decimal": 25.0777,
+    "degrees": "25° 4' 39.72\" N"
+  },
+  "location": "Taoyuan City, Taiwan",
+  "longitude": {
+    "decimal": 121.233002,
+    "degrees": "121° 13' 58.80\" E"
+  },
+  "name": "Taiwan Taoyuan International Airport",
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+0800",
+    "name": "Asia/Taipei",
+    "offset_dst": "+08:00",
+    "offset_std": "+08:00",
+    "tzid": "Asia/Taipei",
+    "zone": "CST",
+    "zone_dst": "CST",
+    "zone_std": "CST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Narita",
+  "country": {
+    "code": "JP",
+    "name": "Japan"
+  },
+  "elevation": {
+    "feet": 141,
+    "meters": 43
+  },
+  "geometry": {
+    "coordinates": [140.386002, 35.764702],
+    "type": "Point"
+  },
+  "iata": "NRT",
+  "icao": "RJAA",
+  "latitude": {
+    "decimal": 35.764702,
+    "degrees": "35° 45' 52.92\" N"
+  },
+  "location": "Narita, Japan",
+  "longitude": {
+    "decimal": 140.386002,
+    "degrees": "140° 23' 9.607\" E"
+  },
+  "name": "Narita International Airport",
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+0900",
+    "name": "Asia/Tokyo",
+    "offset_dst": "+09:00",
+    "offset_std": "+09:00",
+    "tzid": "Asia/Tokyo",
+    "zone": "JST",
+    "zone_dst": "JST",
+    "zone_std": "JST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Osaka",
+  "country": {
+    "code": "JP",
+    "name": "Japan"
+  },
+  "elevation": {
+    "feet": 26,
+    "meters": 8
+  },
+  "geometry": {
+    "coordinates": [135.244003, 34.427299],
+    "type": "Point"
+  },
+  "iata": "KIX",
+  "icao": "RJBB",
+  "latitude": {
+    "decimal": 34.427299,
+    "degrees": "34° 25' 38.27\" N"
+  },
+  "location": "Osaka, Osaka Prefecture, Japan",
+  "longitude": {
+    "decimal": 135.244003,
+    "degrees": "135° 14' 38.41\" E"
+  },
+  "name": "Kansai International Airport",
+  "region": {
+    "name": "Osaka Prefecture"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+0900",
+    "name": "Asia/Tokyo",
+    "offset_dst": "+09:00",
+    "offset_std": "+09:00",
+    "tzid": "Asia/Tokyo",
+    "zone": "JST",
+    "zone_dst": "JST",
+    "zone_std": "JST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Sapporo",
+  "country": {
+    "code": "JP",
+    "name": "Japan"
+  },
+  "elevation": {
+    "feet": 82,
+    "meters": 25
+  },
+  "geometry": {
+    "coordinates": [141.692001, 42.7752],
+    "type": "Point"
+  },
+  "iata": "CTS",
+  "icao": "RJCC",
+  "latitude": {
+    "decimal": 42.7752,
+    "degrees": "42° 46' 30.71\" N"
+  },
+  "location": "Sapporo, Hokkaido Prefecture, Japan",
+  "longitude": {
+    "decimal": 141.692001,
+    "degrees": "141° 41' 31.20\" E"
+  },
+  "name": "New Chitose Airport",
+  "region": {
+    "name": "Hokkaido Prefecture"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+0900",
+    "name": "Asia/Tokyo",
+    "offset_dst": "+09:00",
+    "offset_std": "+09:00",
+    "tzid": "Asia/Tokyo",
+    "zone": "JST",
+    "zone_dst": "JST",
+    "zone_std": "JST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Hakodate",
+  "country": {
+    "code": "JP",
+    "name": "Japan"
+  },
+  "elevation": {
+    "feet": 151,
+    "meters": 46
+  },
+  "geometry": {
+    "coordinates": [140.822006, 41.77],
+    "type": "Point"
+  },
+  "iata": "HKD",
+  "icao": "RJCH",
+  "latitude": {
+    "decimal": 41.77,
+    "degrees": "41° 46' 12.00\" N"
+  },
+  "location": "Hakodate, Oshima Subprefecture, Japan",
+  "longitude": {
+    "decimal": 140.822006,
+    "degrees": "140° 49' 19.22\" E"
+  },
+  "name": "Hakodate Airport",
+  "region": {
+    "name": "Oshima Subprefecture"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+0900",
+    "name": "Asia/Tokyo",
+    "offset_dst": "+09:00",
+    "offset_std": "+09:00",
+    "tzid": "Asia/Tokyo",
+    "zone": "JST",
+    "zone_dst": "JST",
+    "zone_std": "JST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Chitose",
+  "country": {
+    "code": "JP",
+    "name": "Japan"
+  },
+  "elevation": {
+    "feet": 87,
+    "meters": 27
+  },
+  "geometry": {
+    "coordinates": [141.666, 42.794498],
+    "type": "Point"
+  },
+  "icao": "RJCJ",
+  "latitude": {
+    "decimal": 42.794498,
+    "degrees": "42° 47' 40.19\" N"
+  },
+  "location": "Chitose, Ishikari Subprefecture, Japan",
+  "longitude": {
+    "decimal": 141.666,
+    "degrees": "141° 39' 57.59\" E"
+  },
+  "name": "JASDF Chitose Air Base",
+  "region": {
+    "name": "Ishikari Subprefecture"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+0900",
+    "name": "Asia/Tokyo",
+    "offset_dst": "+09:00",
+    "offset_std": "+09:00",
+    "tzid": "Asia/Tokyo",
+    "zone": "JST",
+    "zone_dst": "JST",
+    "zone_std": "JST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Asahikawa",
+  "country": {
+    "code": "JP",
+    "name": "Japan"
+  },
+  "elevation": {
+    "feet": 721,
+    "meters": 220
+  },
+  "geometry": {
+    "coordinates": [142.447006, 43.670799],
+    "type": "Point"
+  },
+  "iata": "AKJ",
+  "icao": "RJEC",
+  "latitude": {
+    "decimal": 43.670799,
+    "degrees": "43° 40' 14.87\" N"
+  },
+  "location": "Asahikawa, Kamikawa Subprefecture, Japan",
+  "longitude": {
+    "decimal": 142.447006,
+    "degrees": "142° 26' 49.22\" E"
+  },
+  "name": "Asahikawa Airport",
+  "region": {
+    "name": "Kamikawa Subprefecture"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+0900",
+    "name": "Asia/Tokyo",
+    "offset_dst": "+09:00",
+    "offset_std": "+09:00",
+    "tzid": "Asia/Tokyo",
+    "zone": "JST",
+    "zone_dst": "JST",
+    "zone_std": "JST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Fukuoka",
+  "country": {
+    "code": "JP",
+    "name": "Japan"
+  },
+  "elevation": {
+    "feet": 32,
+    "meters": 10
+  },
+  "geometry": {
+    "coordinates": [130.451004, 33.585899],
+    "type": "Point"
+  },
+  "iata": "FUK",
+  "icao": "RJFF",
+  "latitude": {
+    "decimal": 33.585899,
+    "degrees": "33° 35' 9.236\" N"
+  },
+  "location": "Fukuoka, Japan",
+  "longitude": {
+    "decimal": 130.451004,
+    "degrees": "130° 27' 3.614\" E"
+  },
+  "name": "Fukuoka Airport",
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+0900",
+    "name": "Asia/Tokyo",
+    "offset_dst": "+09:00",
+    "offset_std": "+09:00",
+    "tzid": "Asia/Tokyo",
+    "zone": "JST",
+    "zone_dst": "JST",
+    "zone_std": "JST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Kirishima",
+  "country": {
+    "code": "JP",
+    "name": "Japan"
+  },
+  "elevation": {
+    "feet": 906,
+    "meters": 276
+  },
+  "geometry": {
+    "coordinates": [130.718994, 31.8034],
+    "type": "Point"
+  },
+  "iata": "KOJ",
+  "icao": "RJFK",
+  "latitude": {
+    "decimal": 31.8034,
+    "degrees": "31° 48' 12.23\" N"
+  },
+  "location": "Kirishima, Kagoshima Prefecture, Japan",
+  "longitude": {
+    "decimal": 130.718994,
+    "degrees": "130° 43' 8.378\" E"
+  },
+  "name": "Kagoshima Airport",
+  "region": {
+    "name": "Kagoshima Prefecture"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+0900",
+    "name": "Asia/Tokyo",
+    "offset_dst": "+09:00",
+    "offset_std": "+09:00",
+    "tzid": "Asia/Tokyo",
+    "zone": "JST",
+    "zone_dst": "JST",
+    "zone_std": "JST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Kitakyushu",
+  "country": {
+    "code": "JP",
+    "name": "Japan"
+  },
+  "elevation": {
+    "feet": 21,
+    "meters": 6
+  },
+  "geometry": {
+    "coordinates": [131.035004, 33.845901],
+    "type": "Point"
+  },
+  "iata": "KKJ",
+  "icao": "RJFR",
+  "latitude": {
+    "decimal": 33.845901,
+    "degrees": "33° 50' 45.24\" N"
+  },
+  "location": "Kitakyushu, Japan",
+  "longitude": {
+    "decimal": 131.035004,
+    "degrees": "131° 2' 6.014\" E"
+  },
+  "name": "Kitakyushu Airport",
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+0900",
+    "name": "Asia/Tokyo",
+    "offset_dst": "+09:00",
+    "offset_std": "+09:00",
+    "tzid": "Asia/Tokyo",
+    "zone": "JST",
+    "zone_dst": "JST",
+    "zone_std": "JST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Omura",
+  "country": {
+    "code": "JP",
+    "name": "Japan"
+  },
+  "elevation": {
+    "feet": 15,
+    "meters": 5
+  },
+  "geometry": {
+    "coordinates": [129.914001, 32.916901],
+    "type": "Point"
+  },
+  "iata": "NGS",
+  "icao": "RJFU",
+  "latitude": {
+    "decimal": 32.916901,
+    "degrees": "32° 55' 0.843\" N"
+  },
+  "location": "Omura, Japan",
+  "longitude": {
+    "decimal": 129.914001,
+    "degrees": "129° 54' 50.40\" E"
+  },
+  "name": "Nagasaki Airport",
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+0900",
+    "name": "Asia/Tokyo",
+    "offset_dst": "+09:00",
+    "offset_std": "+09:00",
+    "tzid": "Asia/Tokyo",
+    "zone": "JST",
+    "zone_dst": "JST",
+    "zone_std": "JST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Tokoname-shi",
+  "country": {
+    "code": "JP",
+    "name": "Japan"
+  },
+  "elevation": {
+    "feet": 15,
+    "meters": 5
+  },
+  "geometry": {
+    "coordinates": [136.804993, 34.858398],
+    "type": "Point"
+  },
+  "iata": "NGO",
+  "icao": "RJGG",
+  "latitude": {
+    "decimal": 34.858398,
+    "degrees": "34° 51' 30.23\" N"
+  },
+  "location": "Tokoname-shi, Aichi Prefecture, Japan",
+  "longitude": {
+    "decimal": 136.804993,
+    "degrees": "136° 48' 17.97\" E"
+  },
+  "name": "Chubu Centrair International Airport",
+  "region": {
+    "name": "Aichi Prefecture"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+0900",
+    "name": "Asia/Tokyo",
+    "offset_dst": "+09:00",
+    "offset_std": "+09:00",
+    "tzid": "Asia/Tokyo",
+    "zone": "JST",
+    "zone_dst": "JST",
+    "zone_std": "JST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Iwanuma",
+  "country": {
+    "code": "JP",
+    "name": "Japan"
+  },
+  "elevation": {
+    "feet": 15,
+    "meters": 5
+  },
+  "geometry": {
+    "coordinates": [140.917007, 38.139702],
+    "type": "Point"
+  },
+  "iata": "SDJ",
+  "icao": "RJSS",
+  "latitude": {
+    "decimal": 38.139702,
+    "degrees": "38° 8' 22.92\" N"
+  },
+  "location": "Iwanuma, Japan",
+  "longitude": {
+    "decimal": 140.917007,
+    "degrees": "140° 55' 1.225\" E"
+  },
+  "name": "Sendai Airport",
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+0900",
+    "name": "Asia/Tokyo",
+    "offset_dst": "+09:00",
+    "offset_std": "+09:00",
+    "tzid": "Asia/Tokyo",
+    "zone": "JST",
+    "zone_dst": "JST",
+    "zone_std": "JST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Ota",
+  "country": {
+    "code": "JP",
+    "name": "Japan"
+  },
+  "elevation": {
+    "feet": 35,
+    "meters": 11
+  },
+  "geometry": {
+    "coordinates": [139.779999, 35.552299],
+    "type": "Point"
+  },
+  "iata": "HND",
+  "icao": "RJTT",
+  "latitude": {
+    "decimal": 35.552299,
+    "degrees": "35° 33' 8.276\" N"
+  },
+  "location": "Ota, Japan",
+  "longitude": {
+    "decimal": 139.779999,
+    "degrees": "139° 46' 47.99\" E"
+  },
+  "name": "Tokyo Haneda International Airport",
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+0900",
+    "name": "Asia/Tokyo",
+    "offset_dst": "+09:00",
+    "offset_std": "+09:00",
+    "tzid": "Asia/Tokyo",
+    "zone": "JST",
+    "zone_dst": "JST",
+    "zone_std": "JST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Jeju",
+  "country": {
+    "code": "KR",
+    "name": "South Korea"
+  },
+  "elevation": {
+    "feet": 118,
+    "meters": 36
+  },
+  "geometry": {
+    "coordinates": [126.492548, 33.512058],
+    "type": "Point"
+  },
+  "iata": "CJU",
+  "icao": "RKPC",
+  "latitude": {
+    "decimal": 33.512058,
+    "degrees": "33° 30' 43.40\" N"
+  },
+  "location": "Jeju, South Korea",
+  "longitude": {
+    "decimal": 126.492548,
+    "degrees": "126° 29' 33.17\" E"
+  },
+  "name": "Jeju International Airport",
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+0900",
+    "name": "Asia/Seoul",
+    "offset_dst": "+09:00",
+    "offset_std": "+09:00",
+    "tzid": "Asia/Seoul",
+    "zone": "KST",
+    "zone_dst": "KST",
+    "zone_std": "KST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Incheon",
+  "country": {
+    "code": "KR",
+    "name": "South Korea"
+  },
+  "elevation": {
+    "feet": 23,
+    "meters": 7
+  },
+  "geometry": {
+    "coordinates": [126.450996, 37.469101],
+    "type": "Point"
+  },
+  "iata": "ICN",
+  "icao": "RKSI",
+  "latitude": {
+    "decimal": 37.469101,
+    "degrees": "37° 28' 8.763\" N"
+  },
+  "location": "Incheon, South Korea",
+  "longitude": {
+    "decimal": 126.450996,
+    "degrees": "126° 27' 3.585\" E"
+  },
+  "name": "Incheon International Airport",
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+0900",
+    "name": "Asia/Seoul",
+    "offset_dst": "+09:00",
+    "offset_std": "+09:00",
+    "tzid": "Asia/Seoul",
+    "zone": "KST",
+    "zone_dst": "KST",
+    "zone_std": "KST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Seoul",
+  "country": {
+    "code": "KR",
+    "name": "South Korea"
+  },
+  "elevation": {
+    "feet": 59,
+    "meters": 18
+  },
+  "geometry": {
+    "coordinates": [126.791, 37.5583],
+    "type": "Point"
+  },
+  "iata": "GMP",
+  "icao": "RKSS",
+  "latitude": {
+    "decimal": 37.5583,
+    "degrees": "37° 33' 29.88\" N"
+  },
+  "location": "Seoul, South Korea",
+  "longitude": {
+    "decimal": 126.791,
+    "degrees": "126° 47' 27.59\" E"
+  },
+  "name": "Gimpo International Airport",
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+0900",
+    "name": "Asia/Seoul",
+    "offset_dst": "+09:00",
+    "offset_std": "+09:00",
+    "tzid": "Asia/Seoul",
+    "zone": "KST",
+    "zone_dst": "KST",
+    "zone_std": "KST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Cheongju-si",
+  "country": {
+    "code": "KR",
+    "name": "South Korea"
+  },
+  "elevation": {
+    "feet": 191,
+    "meters": 58
+  },
+  "geometry": {
+    "coordinates": [127.498741, 36.717008],
+    "type": "Point"
+  },
+  "iata": "CJJ",
+  "icao": "RKTU",
+  "latitude": {
+    "decimal": 36.717008,
+    "degrees": "36° 43' 1.228\" N"
+  },
+  "location": "Cheongju-si, South Korea",
+  "longitude": {
+    "decimal": 127.498741,
+    "degrees": "127° 29' 55.46\" E"
+  },
+  "name": "Cheongju International Airport/Cheongju Air Base (K-59/G-513)",
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+0900",
+    "name": "Asia/Seoul",
+    "offset_dst": "+09:00",
+    "offset_std": "+09:00",
+    "tzid": "Asia/Seoul",
+    "zone": "KST",
+    "zone_dst": "KST",
+    "zone_std": "KST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Naha",
+  "country": {
+    "code": "JP",
+    "name": "Japan"
+  },
+  "elevation": {
+    "feet": 12,
+    "meters": 4
+  },
+  "geometry": {
+    "coordinates": [127.646004, 26.195801],
+    "type": "Point"
+  },
+  "iata": "OKA",
+  "icao": "ROAH",
+  "latitude": {
+    "decimal": 26.195801,
+    "degrees": "26° 11' 44.88\" N"
+  },
+  "location": "Naha, Japan",
+  "longitude": {
+    "decimal": 127.646004,
+    "degrees": "127° 38' 45.61\" E"
+  },
+  "name": "Naha Airport / JASDF Naha Air Base",
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+0900",
+    "name": "Asia/Tokyo",
+    "offset_dst": "+09:00",
+    "offset_std": "+09:00",
+    "tzid": "Asia/Tokyo",
+    "zone": "JST",
+    "zone_dst": "JST",
+    "zone_std": "JST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Chatan",
+  "country": {
+    "code": "JP",
+    "name": "Japan"
+  },
+  "elevation": {
+    "feet": 143,
+    "meters": 44
+  },
+  "geometry": {
+    "coordinates": [127.769444, 26.351667],
+    "type": "Point"
+  },
+  "iata": "DNA",
+  "icao": "RODN",
+  "latitude": {
+    "decimal": 26.351667,
+    "degrees": "26° 21' 6.001\" N"
+  },
+  "location": "Chatan, Japan",
+  "longitude": {
+    "decimal": 127.769444,
+    "degrees": "127° 46' 9.998\" E"
+  },
+  "name": "Kadena Air Base",
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+0900",
+    "name": "Asia/Tokyo",
+    "offset_dst": "+09:00",
+    "offset_std": "+09:00",
+    "tzid": "Asia/Tokyo",
+    "zone": "JST",
+    "zone_dst": "JST",
+    "zone_std": "JST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Olongapo",
+  "country": {
+    "code": "PH",
+    "name": "Philippines"
+  },
+  "elevation": {
+    "feet": 64,
+    "meters": 20
+  },
+  "geometry": {
+    "coordinates": [120.271004, 14.7944],
+    "type": "Point"
+  },
+  "iata": "SFS",
+  "icao": "RPLB",
+  "latitude": {
+    "decimal": 14.7944,
+    "degrees": "14° 47' 39.83\" N"
+  },
+  "location": "Olongapo, Bataan, Philippines",
+  "longitude": {
+    "decimal": 120.271004,
+    "degrees": "120° 16' 15.61\" E"
+  },
+  "name": "Subic Bay International Airport / Naval Air Station Cubi Point",
+  "region": {
+    "name": "Bataan"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+0800",
+    "name": "Asia/Manila",
+    "offset_dst": "+08:00",
+    "offset_std": "+08:00",
+    "tzid": "Asia/Manila",
+    "zone": "PST",
+    "zone_dst": "PST",
+    "zone_std": "PST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Mabalacat",
+  "country": {
+    "code": "PH",
+    "name": "Philippines"
+  },
+  "elevation": {
+    "feet": 484,
+    "meters": 148
+  },
+  "geometry": {
+    "coordinates": [120.559998, 15.186],
+    "type": "Point"
+  },
+  "iata": "CRK",
+  "icao": "RPLC",
+  "latitude": {
+    "decimal": 15.186,
+    "degrees": "15° 11' 9.599\" N"
+  },
+  "location": "Mabalacat, Pampanga, Philippines",
+  "longitude": {
+    "decimal": 120.559998,
+    "degrees": "120° 33' 35.99\" E"
+  },
+  "name": "Clark International Airport / Clark Air Base",
+  "region": {
+    "name": "Pampanga"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+0800",
+    "name": "Asia/Manila",
+    "offset_dst": "+08:00",
+    "offset_std": "+08:00",
+    "tzid": "Asia/Manila",
+    "zone": "PST",
+    "zone_dst": "PST",
+    "zone_std": "PST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Laoag",
+  "country": {
+    "code": "PH",
+    "name": "Philippines"
+  },
+  "elevation": {
+    "feet": 25,
+    "meters": 8
+  },
+  "geometry": {
+    "coordinates": [120.531034, 18.176121],
+    "type": "Point"
+  },
+  "iata": "LAO",
+  "icao": "RPLI",
+  "latitude": {
+    "decimal": 18.176121,
+    "degrees": "18° 10' 34.03\" N"
+  },
+  "location": "Laoag, Ilocos Norte, Philippines",
+  "longitude": {
+    "decimal": 120.531034,
+    "degrees": "120° 31' 51.72\" E"
+  },
+  "name": "Laoag International Airport",
+  "region": {
+    "name": "Ilocos Norte"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+0800",
+    "name": "Asia/Manila",
+    "offset_dst": "+08:00",
+    "offset_std": "+08:00",
+    "tzid": "Asia/Manila",
+    "zone": "PST",
+    "zone_dst": "PST",
+    "zone_std": "PST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Pasay",
+  "country": {
+    "code": "PH",
+    "name": "Philippines"
+  },
+  "elevation": {
+    "feet": 75,
+    "meters": 23
+  },
+  "geometry": {
+    "coordinates": [121.019997, 14.5086],
+    "type": "Point"
+  },
+  "iata": "MNL",
+  "icao": "RPLL",
+  "latitude": {
+    "decimal": 14.5086,
+    "degrees": "14° 30' 30.95\" N"
+  },
+  "location": "Pasay, Metro Manila, Philippines",
+  "longitude": {
+    "decimal": 121.019997,
+    "degrees": "121° 1' 11.98\" E"
+  },
+  "name": "Ninoy Aquino International Airport",
+  "region": {
+    "name": "Metro Manila"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+0800",
+    "name": "Asia/Manila",
+    "offset_dst": "+08:00",
+    "offset_std": "+08:00",
+    "tzid": "Asia/Manila",
+    "zone": "PST",
+    "zone_dst": "PST",
+    "zone_std": "PST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Davao City",
+  "country": {
+    "code": "PH",
+    "name": "Philippines"
+  },
+  "elevation": {
+    "feet": 96,
+    "meters": 29
+  },
+  "geometry": {
+    "coordinates": [125.646004, 7.12552],
+    "type": "Point"
+  },
+  "iata": "DVO",
+  "icao": "RPMD",
+  "latitude": {
+    "decimal": 7.12552,
+    "degrees": "7° 7' 31.87\" N"
+  },
+  "location": "Davao City, Davao Region, Philippines",
+  "longitude": {
+    "decimal": 125.646004,
+    "degrees": "125° 38' 45.61\" E"
+  },
+  "name": "Francisco Bangoy International Airport",
+  "region": {
+    "name": "Davao Region"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+0800",
+    "name": "Asia/Manila",
+    "offset_dst": "+08:00",
+    "offset_std": "+08:00",
+    "tzid": "Asia/Manila",
+    "zone": "PST",
+    "zone_dst": "PST",
+    "zone_std": "PST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "General Santos",
+  "country": {
+    "code": "PH",
+    "name": "Philippines"
+  },
+  "elevation": {
+    "feet": 505,
+    "meters": 154
+  },
+  "geometry": {
+    "coordinates": [125.096001, 6.058],
+    "type": "Point"
+  },
+  "iata": "GES",
+  "icao": "RPMR",
+  "latitude": {
+    "decimal": 6.058,
+    "degrees": "6° 3' 28.79\" N"
+  },
+  "location": "General Santos, Soccsksargen, Philippines",
+  "longitude": {
+    "decimal": 125.096001,
+    "degrees": "125° 5' 45.60\" E"
+  },
+  "name": "General Santos International Airport",
+  "region": {
+    "name": "Soccsksargen"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+0800",
+    "name": "Asia/Manila",
+    "offset_dst": "+08:00",
+    "offset_std": "+08:00",
+    "tzid": "Asia/Manila",
+    "zone": "PST",
+    "zone_dst": "PST",
+    "zone_std": "PST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Lapu-Lapu",
+  "country": {
+    "code": "PH",
+    "name": "Philippines"
+  },
+  "elevation": {
+    "feet": 31,
+    "meters": 9
+  },
+  "geometry": {
+    "coordinates": [123.97974, 10.309261],
+    "type": "Point"
+  },
+  "iata": "CEB",
+  "icao": "RPVM",
+  "latitude": {
+    "decimal": 10.309261,
+    "degrees": "10° 18' 33.33\" N"
+  },
+  "location": "Lapu-Lapu, Central Visayas, Philippines",
+  "longitude": {
+    "decimal": 123.97974,
+    "degrees": "123° 58' 47.06\" E"
+  },
+  "name": "Mactan Cebu International Airport",
+  "region": {
+    "name": "Central Visayas"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+0800",
+    "name": "Asia/Manila",
+    "offset_dst": "+08:00",
+    "offset_std": "+08:00",
+    "tzid": "Asia/Manila",
+    "zone": "PST",
+    "zone_dst": "PST",
+    "zone_std": "PST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Puerto Princesa",
+  "country": {
+    "code": "PH",
+    "name": "Philippines"
+  },
+  "elevation": {
+    "feet": 71,
+    "meters": 22
+  },
+  "geometry": {
+    "coordinates": [118.759003, 9.74212],
+    "type": "Point"
+  },
+  "iata": "PPS",
+  "icao": "RPVP",
+  "latitude": {
+    "decimal": 9.74212,
+    "degrees": "9° 44' 31.63\" N"
+  },
+  "location": "Puerto Princesa, Mimaropa, Philippines",
+  "longitude": {
+    "decimal": 118.759003,
+    "degrees": "118° 45' 32.41\" E"
+  },
+  "name": "Puerto Princesa International Airport / PAF Antonio Bautista Air Base",
+  "region": {
+    "name": "Mimaropa"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+0800",
+    "name": "Asia/Manila",
+    "offset_dst": "+08:00",
+    "offset_std": "+08:00",
+    "tzid": "Asia/Manila",
+    "zone": "PST",
+    "zone_dst": "PST",
+    "zone_std": "PST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Матвеевка",
+  "country": {
+    "code": "RU",
+    "name": "Russia"
+  },
+  "elevation": {
+    "feet": 244,
+    "meters": 74
+  },
+  "geometry": {
+    "coordinates": [135.188588, 48.528338],
+    "type": "Point"
+  },
+  "iata": "KHV",
+  "icao": "UHHH",
+  "latitude": {
+    "decimal": 48.528338,
+    "degrees": "48° 31' 42.01\" N"
+  },
+  "location": "Матвеевка, Khabarovsk Krai, Russia",
+  "longitude": {
+    "decimal": 135.188588,
+    "degrees": "135° 11' 18.91\" E"
+  },
+  "name": "Khabarovsk Novy Airport",
+  "region": {
+    "name": "Khabarovsk Krai"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+1000",
+    "name": "Asia/Vladivostok",
+    "offset_dst": "+10:00",
+    "offset_std": "+10:00",
+    "tzid": "Asia/Vladivostok",
+    "zone": "+10"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Yelizovo",
+  "country": {
+    "code": "RU",
+    "name": "Russia"
+  },
+  "elevation": {
+    "feet": 131,
+    "meters": 40
+  },
+  "geometry": {
+    "coordinates": [158.453995, 53.1679],
+    "type": "Point"
+  },
+  "iata": "PKC",
+  "icao": "UHPP",
+  "latitude": {
+    "decimal": 53.1679,
+    "degrees": "53° 10' 4.440\" N"
+  },
+  "location": "Yelizovo, Kamchatka Krai, Russia",
+  "longitude": {
+    "decimal": 158.453995,
+    "degrees": "158° 27' 14.38\" E"
+  },
+  "name": "Yelizovo Airport",
+  "region": {
+    "name": "Kamchatka Krai"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+1200",
+    "name": "Asia/Kamchatka",
+    "offset_dst": "+12:00",
+    "offset_std": "+12:00",
+    "tzid": "Asia/Kamchatka",
+    "zone": "+12"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Mumbai",
+  "country": {
+    "code": "IN",
+    "name": "India"
+  },
+  "elevation": {
+    "feet": 39,
+    "meters": 12
+  },
+  "geometry": {
+    "coordinates": [72.867897, 19.088699],
+    "type": "Point"
+  },
+  "iata": "BOM",
+  "icao": "VABB",
+  "latitude": {
+    "decimal": 19.088699,
+    "degrees": "19° 5' 19.31\" N"
+  },
+  "location": "Mumbai, Maharashtra, India",
+  "longitude": {
+    "decimal": 72.867897,
+    "degrees": "72° 52' 4.429\" E"
+  },
+  "name": "Chhatrapati Shivaji International Airport",
+  "region": {
+    "code": "MH",
+    "name": "Maharashtra"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+0530",
+    "name": "Asia/Kolkata",
+    "offset_dst": "+05:30",
+    "offset_std": "+05:30",
+    "tzid": "Asia/Kolkata",
+    "zone": "IST",
+    "zone_dst": "IST",
+    "zone_std": "IST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Kadayarppanhalli",
+  "country": {
+    "code": "IN",
+    "name": "India"
+  },
+  "elevation": {
+    "feet": 3000,
+    "meters": 914
+  },
+  "geometry": {
+    "coordinates": [77.706299, 13.1979],
+    "type": "Point"
+  },
+  "iata": "BLR",
+  "icao": "VOBL",
+  "latitude": {
+    "decimal": 13.1979,
+    "degrees": "13° 11' 52.44\" N"
+  },
+  "location": "Kadayarppanhalli, Karnataka, India",
+  "longitude": {
+    "decimal": 77.706299,
+    "degrees": "77° 42' 22.67\" E"
+  },
+  "name": "Kempegowda International Airport",
+  "region": {
+    "code": "KA",
+    "name": "Karnataka"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+0530",
+    "name": "Asia/Kolkata",
+    "offset_dst": "+05:30",
+    "offset_std": "+05:30",
+    "tzid": "Asia/Kolkata",
+    "zone": "IST",
+    "zone_dst": "IST",
+    "zone_std": "IST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Malé",
+  "country": {
+    "code": "MV",
+    "name": "Maldives"
+  },
+  "elevation": {
+    "feet": 6,
+    "meters": 2
+  },
+  "geometry": {
+    "coordinates": [73.529099, 4.19183],
+    "type": "Point"
+  },
+  "iata": "MLE",
+  "icao": "VRMM",
+  "latitude": {
+    "decimal": 4.19183,
+    "degrees": "4° 11' 30.58\" N"
+  },
+  "location": "Malé, Maldives",
+  "longitude": {
+    "decimal": 73.529099,
+    "degrees": "73° 31' 44.75\" E"
+  },
+  "name": "Malé International Airport",
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+0500",
+    "name": "Indian/Maldives",
+    "offset_dst": "+05:00",
+    "offset_std": "+05:00",
+    "tzid": "Indian/Maldives",
+    "zone": "+05"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Da Nang",
+  "country": {
+    "code": "VN",
+    "name": "Vietnam"
+  },
+  "elevation": {
+    "feet": 33,
+    "meters": 10
+  },
+  "geometry": {
+    "coordinates": [108.198997, 16.0439],
+    "type": "Point"
+  },
+  "iata": "DAD",
+  "icao": "VVDN",
+  "latitude": {
+    "decimal": 16.0439,
+    "degrees": "16° 2' 38.04\" N"
+  },
+  "location": "Da Nang, Vietnam",
+  "longitude": {
+    "decimal": 108.198997,
+    "degrees": "108° 11' 56.38\" E"
+  },
+  "name": "Da Nang International Airport",
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+0700",
+    "name": "Asia/Ho_Chi_Minh",
+    "offset_dst": "+07:00",
+    "offset_std": "+07:00",
+    "tzid": "Asia/Ho_Chi_Minh",
+    "zone": "+07"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Sepang",
+  "country": {
+    "code": "MY",
+    "name": "Malaysia"
+  },
+  "elevation": {
+    "feet": 69,
+    "meters": 21
+  },
+  "geometry": {
+    "coordinates": [101.709999, 2.74558],
+    "type": "Point"
+  },
+  "iata": "KUL",
+  "icao": "WMKK",
+  "latitude": {
+    "decimal": 2.74558,
+    "degrees": "2° 44' 44.08\" N"
+  },
+  "location": "Sepang, Selangor, Malaysia",
+  "longitude": {
+    "decimal": 101.709999,
+    "degrees": "101° 42' 35.99\" E"
+  },
+  "name": "Kuala Lumpur International Airport",
+  "region": {
+    "name": "Selangor"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+0800",
+    "name": "Asia/Kuala_Lumpur",
+    "offset_dst": "+08:00",
+    "offset_std": "+08:00",
+    "tzid": "Asia/Kuala_Lumpur",
+    "zone": "+08"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Singapore",
+  "country": {
+    "code": "SG",
+    "name": "Singapore"
+  },
+  "elevation": {
+    "feet": 22,
+    "meters": 7
+  },
+  "geometry": {
+    "coordinates": [103.994003, 1.35019],
+    "type": "Point"
+  },
+  "iata": "SIN",
+  "icao": "WSSS",
+  "latitude": {
+    "decimal": 1.35019,
+    "degrees": "1° 21' 0.684\" N"
+  },
+  "location": "Singapore, Singapore",
+  "longitude": {
+    "decimal": 103.994003,
+    "degrees": "103° 59' 38.41\" E"
+  },
+  "name": "Singapore Changi Airport",
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+0800",
+    "name": "Asia/Singapore",
+    "offset_dst": "+08:00",
+    "offset_std": "+08:00",
+    "tzid": "Asia/Singapore",
+    "zone": "+08"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Brisbane",
+  "country": {
+    "code": "AU",
+    "name": "Australia"
+  },
+  "elevation": {
+    "feet": 13,
+    "meters": 4
+  },
+  "geometry": {
+    "coordinates": [153.117004, -27.384199],
+    "type": "Point"
+  },
+  "iata": "BNE",
+  "icao": "YBBN",
+  "latitude": {
+    "decimal": -27.384199,
+    "degrees": "27° 23' 3.116\" S"
+  },
+  "location": "Brisbane, Queensland, Australia",
+  "longitude": {
+    "decimal": 153.117004,
+    "degrees": "153° 7' 1.214\" E"
+  },
+  "name": "Brisbane International Airport",
+  "region": {
+    "code": "QLD",
+    "name": "Queensland"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+1000",
+    "name": "Australia/Brisbane",
+    "offset_dst": "+10:00",
+    "offset_std": "+10:00",
+    "tzid": "Australia/Brisbane",
+    "zone": "AEST",
+    "zone_dst": "AEST",
+    "zone_std": "AEST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Gold Coast City",
+  "country": {
+    "code": "AU",
+    "name": "Australia"
+  },
+  "elevation": {
+    "feet": 21,
+    "meters": 6
+  },
+  "geometry": {
+    "coordinates": [153.506641, -28.165962],
+    "type": "Point"
+  },
+  "iata": "OOL",
+  "icao": "YBCG",
+  "latitude": {
+    "decimal": -28.165962,
+    "degrees": "28° 9' 57.46\" S"
+  },
+  "location": "Gold Coast City, Queensland, Australia",
+  "longitude": {
+    "decimal": 153.506641,
+    "degrees": "153° 30' 23.90\" E"
+  },
+  "name": "Gold Coast Airport",
+  "region": {
+    "code": "QLD",
+    "name": "Queensland"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "+1100",
+    "name": "Australia/Sydney",
+    "offset_dst": "+11:00",
+    "offset_std": "+10:00",
+    "tzid": "Australia/Sydney",
+    "zone": "AEDT",
+    "zone_dst": "AEDT",
+    "zone_std": "AEST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Aeroglen",
+  "country": {
+    "code": "AU",
+    "name": "Australia"
+  },
+  "elevation": {
+    "feet": 10,
+    "meters": 3
+  },
+  "geometry": {
+    "coordinates": [145.755005, -16.885799],
+    "type": "Point"
+  },
+  "iata": "CNS",
+  "icao": "YBCS",
+  "latitude": {
+    "decimal": -16.885799,
+    "degrees": "16° 53' 8.876\" S"
+  },
+  "location": "Aeroglen, Queensland, Australia",
+  "longitude": {
+    "decimal": 145.755005,
+    "degrees": "145° 45' 18.01\" E"
+  },
+  "name": "Cairns International Airport",
+  "region": {
+    "code": "QLD",
+    "name": "Queensland"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+1000",
+    "name": "Australia/Brisbane",
+    "offset_dst": "+10:00",
+    "offset_std": "+10:00",
+    "tzid": "Australia/Brisbane",
+    "zone": "AEST",
+    "zone_dst": "AEST",
+    "zone_std": "AEST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Hobart",
+  "country": {
+    "code": "AU",
+    "name": "Australia"
+  },
+  "elevation": {
+    "feet": 13,
+    "meters": 4
+  },
+  "geometry": {
+    "coordinates": [147.509995, -42.836102],
+    "type": "Point"
+  },
+  "iata": "HBA",
+  "icao": "YMHB",
+  "latitude": {
+    "decimal": -42.836102,
+    "degrees": "42° 50' 9.967\" S"
+  },
+  "location": "Hobart, Tasmania, Australia",
+  "longitude": {
+    "decimal": 147.509995,
+    "degrees": "147° 30' 35.98\" E"
+  },
+  "name": "Hobart International Airport",
+  "region": {
+    "code": "TAS",
+    "name": "Tasmania"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "+1100",
+    "name": "Australia/Hobart",
+    "offset_dst": "+11:00",
+    "offset_std": "+10:00",
+    "tzid": "Australia/Hobart",
+    "zone": "AEDT",
+    "zone_dst": "AEDT",
+    "zone_std": "AEST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Melbourne Airport",
+  "country": {
+    "code": "AU",
+    "name": "Australia"
+  },
+  "elevation": {
+    "feet": 434,
+    "meters": 132
+  },
+  "geometry": {
+    "coordinates": [144.843002, -37.673302],
+    "type": "Point"
+  },
+  "iata": "MEL",
+  "icao": "YMML",
+  "latitude": {
+    "decimal": -37.673302,
+    "degrees": "37° 40' 23.88\" S"
+  },
+  "location": "Melbourne Airport, Victoria, Australia",
+  "longitude": {
+    "decimal": 144.843002,
+    "degrees": "144° 50' 34.80\" E"
+  },
+  "name": "Melbourne International Airport",
+  "region": {
+    "code": "VIC",
+    "name": "Victoria"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "+1100",
+    "name": "Australia/Melbourne",
+    "offset_dst": "+11:00",
+    "offset_std": "+10:00",
+    "tzid": "Australia/Melbourne",
+    "zone": "AEDT",
+    "zone_dst": "AEDT",
+    "zone_std": "AEST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Adelaide",
+  "country": {
+    "code": "AU",
+    "name": "Australia"
+  },
+  "elevation": {
+    "feet": 20,
+    "meters": 6
+  },
+  "geometry": {
+    "coordinates": [138.533393, -34.947512],
+    "type": "Point"
+  },
+  "iata": "ADL",
+  "icao": "YPAD",
+  "latitude": {
+    "decimal": -34.947512,
+    "degrees": "34° 56' 51.04\" S"
+  },
+  "location": "Adelaide, South Australia, Australia",
+  "longitude": {
+    "decimal": 138.533393,
+    "degrees": "138° 32' 0.214\" E"
+  },
+  "name": "Adelaide International Airport",
+  "region": {
+    "code": "SA",
+    "name": "South Australia"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "+1030",
+    "name": "Australia/Adelaide",
+    "offset_dst": "+10:30",
+    "offset_std": "+09:30",
+    "tzid": "Australia/Adelaide",
+    "zone": "ACDT",
+    "zone_dst": "ACDT",
+    "zone_std": "ACST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Darwin",
+  "country": {
+    "code": "AU",
+    "name": "Australia"
+  },
+  "elevation": {
+    "feet": 103,
+    "meters": 31
+  },
+  "geometry": {
+    "coordinates": [130.88185, -12.41497],
+    "type": "Point"
+  },
+  "iata": "DRW",
+  "icao": "YPDN",
+  "latitude": {
+    "decimal": -12.41497,
+    "degrees": "12° 24' 53.89\" S"
+  },
+  "location": "Darwin, Australia",
+  "longitude": {
+    "decimal": 130.88185,
+    "degrees": "130° 52' 54.65\" E"
+  },
+  "name": "Darwin International Airport / RAAF Darwin",
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+0930",
+    "name": "Australia/Darwin",
+    "offset_dst": "+09:30",
+    "offset_std": "+09:30",
+    "tzid": "Australia/Darwin",
+    "zone": "ACST",
+    "zone_dst": "ACST",
+    "zone_std": "ACST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Perth",
+  "country": {
+    "code": "AU",
+    "name": "Australia"
+  },
+  "elevation": {
+    "feet": 67,
+    "meters": 20
+  },
+  "geometry": {
+    "coordinates": [115.967003, -31.9403],
+    "type": "Point"
+  },
+  "iata": "PER",
+  "icao": "YPPH",
+  "latitude": {
+    "decimal": -31.9403,
+    "degrees": "31° 56' 25.08\" S"
+  },
+  "location": "Perth, Western Australia, Australia",
+  "longitude": {
+    "decimal": 115.967003,
+    "degrees": "115° 58' 1.210\" E"
+  },
+  "name": "Perth International Airport",
+  "region": {
+    "code": "WA",
+    "name": "Western Australia"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": false,
+    "gmt": "+0800",
+    "name": "Australia/Perth",
+    "offset_dst": "+08:00",
+    "offset_std": "+08:00",
+    "tzid": "Australia/Perth",
+    "zone": "AWST",
+    "zone_dst": "AWST",
+    "zone_std": "AWST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Canberra",
+  "country": {
+    "code": "AU",
+    "name": "Australia"
+  },
+  "elevation": {
+    "feet": 1886,
+    "meters": 575
+  },
+  "geometry": {
+    "coordinates": [149.195007, -35.3069],
+    "type": "Point"
+  },
+  "iata": "CBR",
+  "icao": "YSCB",
+  "latitude": {
+    "decimal": -35.3069,
+    "degrees": "35° 18' 24.83\" S"
+  },
+  "location": "Canberra, Australia",
+  "longitude": {
+    "decimal": 149.195007,
+    "degrees": "149° 11' 42.02\" E"
+  },
+  "name": "Canberra International Airport",
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "+1100",
+    "name": "Australia/Sydney",
+    "offset_dst": "+11:00",
+    "offset_std": "+10:00",
+    "tzid": "Australia/Sydney",
+    "zone": "AEDT",
+    "zone_dst": "AEDT",
+    "zone_std": "AEST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}, {
+  "city": "Sydney",
+  "country": {
+    "code": "AU",
+    "name": "Australia"
+  },
+  "elevation": {
+    "feet": 21,
+    "meters": 6
+  },
+  "geometry": {
+    "coordinates": [151.177002, -33.946098],
+    "type": "Point"
+  },
+  "iata": "SYD",
+  "icao": "YSSY",
+  "latitude": {
+    "decimal": -33.946098,
+    "degrees": "33° 56' 45.95\" S"
+  },
+  "location": "Sydney, New South Wales, Australia",
+  "longitude": {
+    "decimal": 151.177002,
+    "degrees": "151° 10' 37.20\" E"
+  },
+  "name": "Sydney Kingsford Smith International Airport",
+  "region": {
+    "code": "NSW",
+    "name": "New South Wales"
+  },
+  "status": "Operational",
+  "timezone": {
+    "dst": true,
+    "gmt": "+1100",
+    "name": "Australia/Sydney",
+    "offset_dst": "+11:00",
+    "offset_std": "+10:00",
+    "tzid": "Australia/Sydney",
+    "zone": "AEDT",
+    "zone_dst": "AEDT",
+    "zone_std": "AEST"
+  },
+  "type": "Airport",
+  "OpSpec": {
+    "C70A321": "",
+    "C70A330": "A",
+    "B342": ""
+  }
+}]

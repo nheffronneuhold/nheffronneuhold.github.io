@@ -1,14 +1,37 @@
 
 <html>
-  <head>
-    <title>ETOPS Areas of Operations</title>
-    <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
-    <link rel="stylesheet" type="text/css" href="./style.css" />
-    <script type="module" src="./index.js"></script>
-  </head>
-  <body>
-  <input id="test" type="text"/>
-    <div id="map"></div>
+<head>
+  <title>ETOPS Areas of Operations</title>
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+  <script
+  src="https://code.jquery.com/jquery-3.6.4.min.js"
+  integrity="sha256-oP6HI9z1XaZNBrJURtCoUT5SUnxFr8s3BzRl+cbzUq8="
+  crossorigin="anonymous"></script>
+  <link rel="stylesheet" type="text/css" href="./style.css" />
+  <script type="module" src="./index.js"></script>
+</head>
+<body>
+  <div>
+    <select name="aircraftSelect" id="aircraftSelect">
+      <option value="A321">A321</option>
+      <option value="A330P">A330P</option>
+      <option value="A330F">A330F</option>
+      <option value="B787">B787</option>
+    </select>
+  </div>
+  <div>
+    Alternates: 
+    <input id="alternate0" type="text" value="PHKO"/>
+    <input id="alternate1" type="text" value="NTAA"/>
+    <input id="alternate2" type="text"/>
+    <input id="alternate3" type="text"/>
+    <input id="alternate4" type="text"/>
+  </div>
+  <div>
+    <input type="button" id="submitBtn" value="Update Map"/>
+  </div>
+
+  <div id="map"></div>
 
     <!-- 
       The `defer` attribute causes the callback to execute after the full HTML
@@ -16,10 +39,10 @@
       and consistent behavior across browsers, consider loading using Promises.
       See https://developers.google.com/maps/documentation/javascript/load-maps-js-api
       for more information.
-      -->
+    -->
     <script
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDGhGk3DTCkjF1EUxpMm5ypFoQ-ecrS2gY&callback=initMap&v=weekly"
-      defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDGhGk3DTCkjF1EUxpMm5ypFoQ-ecrS2gY&callback=initMap&v=weekly"
+    defer
     ></script>
   </body>
-</html>
+  </html>
