@@ -1,5 +1,6 @@
 
-<html>
+<!doctype html>
+<html lang="en">
 <head>
   <title>ETOPS Areas of Operations</title>
   <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
@@ -12,37 +13,35 @@
 </head>
 <body>
   <div>
-    <select name="aircraftSelect" id="aircraftSelect">
-      <option value="A321">A321</option>
-      <option value="A330P">A330P</option>
-      <option value="A330F">A330F</option>
-      <option value="B787">B787</option>
-    </select>
+    Adequate Airports: 
+    <input id="adequate0" type="text" size="4" value="PHKO"/>
+    <input id="adequate1" type="text" size="4" value="NTAA"/>
+    <input id="adequate2" type="text" size="4"/>
+    <input id="adequate3" type="text" size="4"/>
+    <input id="adequate4" type="text" size="4"/>
+    All:<input type="checkbox" id="adequateCheckbox"/>
+    <div>
+      <div>
+        Alternate Airports: 
+        <input id="alternate0" type="text" size="4" value="PHKO"/>
+        <input id="alternate1" type="text" size="4" value="NTAA"/>
+        <input id="alternate2" type="text" size="4"/>
+        <input id="alternate3" type="text" size="4"/>
+        <input id="alternate4" type="text" size="4"/>
+      </div>
+      <div>
+        <label for="aircraftSelect">Aircraft:</label>
+        <select name="aircraftSelect" id="aircraftSelect">
+          <option value="A321">A321</option>
+          <option value="A330P">A330P</option>
+          <option value="A330F">A330F</option>
+          <option value="B787">B787</option>
+        </select>
+        <input type="button" id="submitBtn" value="Update Map"/>
+      </div>
+    </div>
   </div>
-  <div>
-    Alternates: 
-    <input id="alternate0" type="text" value="PHKO"/>
-    <input id="alternate1" type="text" value="NTAA"/>
-    <input id="alternate2" type="text"/>
-    <input id="alternate3" type="text"/>
-    <input id="alternate4" type="text"/>
-  </div>
-  <div>
-    <input type="button" id="submitBtn" value="Update Map"/>
-  </div>
-
   <div id="map"></div>
-
-    <!-- 
-      The `defer` attribute causes the callback to execute after the full HTML
-      document has been parsed. For non-blocking uses, avoiding race conditions,
-      and consistent behavior across browsers, consider loading using Promises.
-      See https://developers.google.com/maps/documentation/javascript/load-maps-js-api
-      for more information.
-    -->
-    <script
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDGhGk3DTCkjF1EUxpMm5ypFoQ-ecrS2gY&callback=initMap&v=weekly"
-    defer
-    ></script>
-  </body>
-  </html>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDGhGk3DTCkjF1EUxpMm5ypFoQ-ecrS2gY&callback=initMap&v=weekly" defer></script>
+</body>
+</html>
